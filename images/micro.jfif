@@ -1,0 +1,1872 @@
+<!doctype html>
+<html  xmlns:fb="http://ogp.me/ns/fb#"  prefix="og: http://ogp.me/ns#">
+<head>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<meta name="HandheldFriendly" content="true" />
+	<meta name="apple-mobile-web-app-capable" content="YES" />
+
+
+	<base href="https://www.nchasia.com/en-in/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta property="og:title" content="The role of microorganisms in wastewater treatment" />
+	<meta property="og:type" content="article" />
+	<meta property="og:image" content="https://www.nchasia.com/images/insights/The-role-of-microorganisms-in-wastewater-treatment.jpg" />
+	<meta property="og:url" content="https://www.nchasia.com/en-in/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment" />
+	<meta name="og:site_name" content="NCH Asia" />
+	<meta property="og:description" content="Read about the role of microorganisms in wastewater in NCH Asia's industry insights section of the website. Get in touch for more information." />
+	<meta name="robots" content="index, follow" />
+	<meta name="description" content="Read about the role of microorganisms in wastewater in NCH Asia's industry insights section of the website. Get in touch for more information." />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>The role of microorganisms in wastewater treatment</title>
+	<link href="/templates/corporate/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="https://www.nchasia.com/en-in/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment" rel="canonical" />
+	<link href="https://www.nchasia.com/en-in/search-results?layout=corporate:insights&amp;catid=278&amp;id=207&amp;format=opensearch" rel="search" title="Search NCH Asia" type="application/opensearchdescription+xml" />
+	<link href="https://cdn.jsdelivr.net/npm/simple-line-icons@2.4.1/css/simple-line-icons.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/corporate/css/k2.css?v=2.10.3" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/jcemediabox/css/jcemediabox.min.css?694e8c6cd10a5c458a4efb27d8ee5c83" rel="stylesheet" type="text/css" />
+	<link href="/templates/corporate/framework/css/framework.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/corporate/css/theme-160420.min.css?1630657063918" rel="stylesheet" type="text/css" />
+	<link href="/templates/corporate/css/edits.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/corporate/js/fancybox/jquery.fancybox-fix.css" rel="stylesheet" type="text/css" />
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:700,600,400,300" rel="stylesheet" type="text/css" />
+	<link href="/templates/corporate/css/custom.min.css?1594304021851" rel="stylesheet" type="text/css" />
+	<link href="/modules/mod_maximenuck/themes/blank/css/maximenuck.php?monid=maximenuck320" rel="stylesheet" type="text/css" />
+	<link href="/media/mod_falang/css/template.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+#tabwrap {margin-top: 0}.sidebar {margin-top:45px} .contentrow {margin-top: 0} .container {width: 100%; max-width: 1000px}@media screen and (max-width: 524px) {#maximenuck320 .maximenumobiletogglericonck {display: block !important;font-size: 33px !important;text-align: right !important;padding-top: 10px !important;}#maximenuck320 ul.maximenuck .maximenumobiletogglerck ~ li.maximenuck.level1 {display: none !important;}#maximenuck320 ul.maximenuck .maximenumobiletogglerck:checked ~ li.maximenuck.level1 {display: block !important;}}@media screen and (max-width: 524px) {div#maximenuck320 ul.maximenuck li.maximenuck.nomobileck, div#maximenuck320 .maxipushdownck ul.maximenuck2 li.maximenuck.nomobileck { display: none !important; }}@media screen and (min-width: 525px) {div#maximenuck320 ul.maximenuck li.maximenuck.nodesktopck, div#maximenuck320 .maxipushdownck ul.maximenuck2 li.maximenuck.nodesktopck { display: none !important; }}div.mod_search96 input[type="search"]{ width:auto; }
+	</style>
+	<script src="/media/jui/js/jquery.min.js?4f0d986b7255599e019138bce3679615" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?4f0d986b7255599e019138bce3679615" type="text/javascript"></script>
+	<script src="/media/jui/js/bootstrap.min.js?4f0d986b7255599e019138bce3679615" type="text/javascript"></script>
+	<script src="/media/k2/assets/js/k2.frontend.js?v=2.10.3&b=20200429&sitepath=/" type="text/javascript"></script>
+	<script src="/plugins/system/jcemediabox/js/jcemediabox.min.js?1f7b0a303a8f99b234bb0a0914bb82ad" type="text/javascript"></script>
+	<script src="/templates/corporate/framework/js/zen.min.js" type="text/javascript"></script>
+	<script src="/templates/corporate/framework/js/MooTools.js" type="text/javascript"></script>
+	<script src="/templates/corporate/js/template-250320.min.js?1594886275910" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery.ui.core.min.js?4f0d986b7255599e019138bce3679615" type="text/javascript"></script>
+	<!--[if lt IE 9]><script src="/media/system/js/html5fallback.js?4f0d986b7255599e019138bce3679615" type="text/javascript"></script><![endif]-->
+	<script type="text/javascript">
+jQuery(document).ready(function(){WfMediabox.init({"base":"\/","theme":"standard","width":"","height":"","lightbox":0,"shadowbox":0,"icons":0,"overlay":1,"overlay_opacity":0,"overlay_color":"","transition_speed":300,"close":2,"scrolling":"fixed","labels":{"close":"Close","next":"Next","previous":"Previous","cancel":"Cancel","numbers":"{{numbers}}","numbers_count":"{{current}} of {{total}}","download":"Download"}});});function do_nothing() { return; }
+	</script>
+	<meta property="og:title" content="The role of microorganisms in wastewater treatment" />
+		<meta property="og:description" content="&nbsp;
+Biological wastewater treatments employ microorganisms to remove organic matter from water. Organic matter or pollutants stem from number of sources, such as drainage systems or acid rain.
+&nbsp;" />
+		<meta property="og:image" content="http://www.nchasia.com/images/insights/The-role-of-microorganisms-in-wastewater-treatment.jpg"/>
+		<meta name="twitter:title" content="The role of microorganisms in wastewater treatment"/>
+		<meta name="twitter:card" content="summary_large_image"/>
+		<meta name="twitter:site" content="@nch_asia"/>
+		<meta name="twitter:creator" content="@nch_asia"/>
+		<meta name="twitter:url" content="https://www.nchasia.com/en-in/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment"/>
+		<meta name="twitter:image" content="http://www.nchasia.com/images/insights/The-role-of-microorganisms-in-wastewater-treatment.jpg"/>
+	<link rel="alternate" href="https://www.nchasia.com/en-au/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment" hreflang="en-au" />
+	<link rel="alternate" href="https://www.nchasia.com/en-au/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment"  hreflang="x-default" />
+	<link rel="alternate" href="https://www.nchasia.com/en-hk/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment" hreflang="en-hk" />
+	<link rel="alternate" href="https://www.nchasia.com/en-id/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment" hreflang="en-id" />
+	<link rel="alternate" href="https://www.nchasia.com/en-in/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment" hreflang="en-in" />
+	<link rel="alternate" href="https://www.nchasia.com/ja-jp/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment" hreflang="ja-jp" />
+	<link rel="alternate" href="https://www.nchasia.com/ko-kr/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment" hreflang="ko-kr" />
+	<link rel="alternate" href="https://www.nchasia.com/en-my/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment" hreflang="en-my" />
+	<link rel="alternate" href="https://www.nchasia.com/en-nz/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment" hreflang="en-nz" />
+	<link rel="alternate" href="https://www.nchasia.com/en-ph/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment" hreflang="en-ph" />
+	<link rel="alternate" href="https://www.nchasia.com/en-sg/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment" hreflang="en-sg" />
+	<link rel="alternate" href="https://www.nchasia.com/zh-tw/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment" hreflang="zh-tw" />
+	<link rel="alternate" href="https://www.nchasia.com/en-th/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment" hreflang="en-th" />
+	<link rel="alternate" href="https://www.nchasia.com/th-th/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment" hreflang="th-th" />
+	<link rel="alternate" href="https://www.nchasia.com/en-vn/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment" hreflang="en-vn" />
+
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WPRMZJC');</script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Global site tag (gtag.js) - Google Ads: 347274340 -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=AW-347274340"></script>
+		<script>
+  			window.dataLayer = window.dataLayer || [];
+  			function gtag(){dataLayer.push(arguments);}
+  			gtag('js', new Date());
+  			gtag('config', 'AW-347274340');
+		</script>
+
+
+	<!-- Analytics -->
+		        
+    
+    
+    
+
+
+
+
+
+
+  <!--[if lte IE 9]>
+    <link rel="stylesheet" type="text/css" href="/templates/corporate/css/ie9-older.css">
+  <![endif]-->
+  <!--[if IE 8]>
+    <link rel="stylesheet" type="text/css" href="/templates/corporate/css/ie8.css">
+  <![endif]-->
+
+<style media="screen">
+.items {
+display: flex;
+flex-wrap: wrap;
+}
+.items .item {
+width: 100%;
+max-width: 100%;
+flex-shrink: 1;
+background-color: #f3f4f4;
+margin-bottom: 15px;
+}
+@media screen and (min-width: 600px) {
+.items .item {
+max-width: 100%;
+}
+}
+.items .item .title {
+background-color: #00b1d4;
+color: #ffffff;
+padding: 5px 10px;
+margin: 0;
+text-align: left;
+border-bottom-left-radius: 0;
+border-bottom-right-radius: 20px;
+}
+.items .item div.content {
+padding: 15px;
+}
+@media screen and (min-width: 500px) {
+    .items .item div.content {
+        display: flex;
+        justify-content: space-between;
+        align-items: stretch;
+    }
+}
+.items .item div.content .left {
+width: 100%;
+max-width: 100%;
+flex-shrink: 1;
+margin-right: 15px;
+}
+@media screen and (min-width: 500px) {
+    .items .item div.content .left {
+        max-width: 67%;
+    }
+}
+.items .item div.content .left .heading {
+color: #0067ac;
+text-align: left;
+}
+.items .item div.content .left p.content {
+text-align: left;
+}
+.items .item div.content .left ul {
+list-style: none;
+margin: 0;
+}
+.items .item .content .left ul li {
+position: relative;
+text-align: left;
+padding-left: 20px;
+}
+.items .item .content .left ul li:before {
+content: '';
+display: block;
+position: absolute;
+top: 9px;
+left: 5px;
+width: 5px;
+height: 5px;
+background-color: #363636;
+border-radius: 50%;
+}
+.items .item div.content .right {
+width: 100%;
+max-width: 100%;
+flex-shrink: 1;
+text-align: center;
+}
+@media screen and (min-width: 500px) {
+    .items .item div.content .right {
+        max-width: 33%;
+    }
+}
+.items .item div.content .right img {
+width: 100%;
+max-width: 150px;
+margin: 0 0 15px 0 !important;
+}
+.items .item div.content .right p, .items .item div.content .right a {
+display: block;
+background-color: #0067ac;
+color: #ffffff !important;
+font-size: 14px !important;
+font-weight: 400 !important;
+text-align: center;
+padding: 5px 10px;
+margin: 0;
+}
+.items .item div.content .right p:not(:last-child), .items .item div.content .right a:not(:last-child) {
+    margin-bottom: 5px;
+}
+
+
+body.itemid134 #bannerwrap #banner .slideshow .allitems {
+  display: none !important;
+}
+
+.iframe-container {
+    position: relative;
+    padding-top: 55%;
+}
+    .iframe-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+</style>
+
+  <!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-86409872-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+
+
+<meta name="google-site-verification" content="mFhZqxa6XBWKAntrk5pFz6B_NKRsEcK8JeXQQQz0KTM" />
+
+<!-- BEGIN Advanced Google Analytics - http://deconf.com/advanced-google-analytics-joomla/ -->
+
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', ''], ['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script>
+<!-- END Advanced Google Analytics -->
+
+
+</head>
+    <body class="  insights com_content article corporateinsights  itemid667  en-in ">
+      <!-- OLD - Google Tag Manager -->
+      <!--script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PPK8SL');</script-->
+    <!-- End - OLD Google Tag Manager -->
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PPK8SL"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><!-- End Google Tag Manager -->
+
+
+<div id="fb-root"></div>
+<!-- <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v8.0" nonce="HNKSK7um"></script> -->
+
+    
+  	
+				<div id="togglemenu">
+					<div id="togglemenutrigger">
+						<span>Menu</span>
+					</div>
+					<div id="togglemenucontent">
+								<div class="moduletable">
+			
+						
+			
+						
+			
+			
+						<div class="jbmoduleBody">
+			<ul class="nav menu mod-list">
+<li class="item-101 default"><a href="/en-in/" >Home</a></li><li class="item-128 divider deeper parent"><span class="separator ">Solutions</span>
+<ul class="nav-child unstyled small"><li class="item-129 deeper parent"><a href="/en-in/solutions/maintenance" ><img src="/images/NCH_Maintenance_Logo_Gradient.svg" alt="Maintenance" /><span class="image-title">Maintenance</span></a><ul class="nav-child unstyled small"><li class="item-165"><a href="/en-in/solutions/maintenance/industrial-degreasers" >Industrial Degreasers</a></li><li class="item-170"><a href="/en-in/solutions/maintenance/descalers" >Descalers</a></li><li class="item-166 deeper parent"><a href="/en-in/solutions/maintenance/rust-corrosion" >Anti Corrosion Grease</a><ul class="nav-child unstyled small"><li class="item-411"><a href="/en-in/solutions/maintenance/rust-corrosion/x-rust-7" >X-Rust 7 Rust Remover</a></li><li class="item-412"><a href="/en-in/solutions/maintenance/rust-corrosion/x-rust-7-gel" >X-Rust 7 Gel</a></li><li class="item-413"><a href="/en-in/solutions/maintenance/rust-corrosion/salvage-2" >Salvage 2+</a></li></ul></li><li class="item-130"><a href="/en-in/solutions/maintenance/sealants-coatings" >Sealants &amp; Coatings</a></li><li class="item-167 deeper parent"><a href="/en-in/solutions/maintenance/cleaning-maintenance" >Cleaning &amp; Maintenance Services</a><ul class="nav-child unstyled small"><li class="item-573"><a href="/en-in/solutions/maintenance/cleaning-maintenance/hvac-cleaning-services" >HVAC Cleaning Services</a></li><li class="item-574"><a href="/en-in/solutions/maintenance/cleaning-maintenance/floor-cleaning-services" >Floor Cleaning Services</a></li><li class="item-575"><a href="/en-in/solutions/maintenance/cleaning-maintenance/machine-cleaning-services" >Machine Cleaning Services</a></li><li class="item-576"><a href="/en-in/solutions/maintenance/cleaning-maintenance/tank-cleaning-services" >Tank Cleaning Services</a></li><li class="item-224"><a href="/en-in/solutions/maintenance/cleaning-maintenance/disinfectants-sanitizers" >Disinfectants &amp; Sanitizers</a></li></ul></li><li class="item-275"><a href="/en-in/solutions/maintenance/absorbents" >Absorbents</a></li><li class="item-277"><a href="/en-in/solutions/maintenance/floor-care" >Floor Care</a></li><li class="item-276"><a href="/en-in/solutions/maintenance/graffiti-removers" >Graffiti Removers</a></li><li class="item-279"><a href="/en-in/solutions/maintenance/hand-care" >Hand Care</a></li><li class="item-225"><a href="/en-in/solutions/maintenance/kitchens" >Kitchens</a></li><li class="item-226"><a href="/en-in/solutions/maintenance/bathrooms" >Bathrooms</a></li><li class="item-278 deeper parent"><a href="/en-in/solutions/maintenance/odor-control" >Odor Control</a><ul class="nav-child unstyled small"><li class="item-531"><a href="/en-in/solutions/maintenance/odor-control/xodor" >Xodor</a></li></ul></li><li class="item-137 deeper parent"><a href="/en-in/solutions/maintenance/water-based-parts-cleaning" >Water Based Parts Cleaning</a><ul class="nav-child unstyled small"><li class="item-1442"><a href="/en-in/solutions/maintenance/water-based-parts-cleaning/torrent-500" >Torrent 500</a></li><li class="item-1443"><a href="/en-in/solutions/maintenance/water-based-parts-cleaning/torrent-700" >Torrent 700</a></li><li class="item-265"><a href="/en-in/solutions/maintenance/water-based-parts-cleaning/key-features" >Key Features</a></li><li class="item-266"><a href="/en-in/solutions/maintenance/water-based-parts-cleaning/how-it-works" >How it works</a></li><li class="item-581"><a href="/en-in/solutions/maintenance/water-based-parts-cleaning/torrent-calculator" >Torrent Calculator</a></li></ul></li><li class="item-561 deeper parent"><a href="/en-in/solutions/maintenance/partsmaster" >Partsmaster</a><ul class="nav-child unstyled small"><li class="item-565 deeper parent"><a href="/en-in/solutions/maintenance/partsmaster/cryotools" >Cryotools</a><ul class="nav-child unstyled small"><li class="item-566"><a href="/en-in/solutions/maintenance/partsmaster/cryotools/cryophase-how-it-works" >Cryophase How it works</a></li></ul></li><li class="item-579"><a href="/en-in/solutions/maintenance/partsmaster/cryo-cutting-tools" >Cryo - Cutting Tools</a></li><li class="item-567"><a href="/en-in/solutions/maintenance/partsmaster/welding" >Welding</a></li><li class="item-568"><a href="/en-in/solutions/maintenance/partsmaster/pipe-repair" >Pipe Repair</a></li><li class="item-569"><a href="/en-in/solutions/maintenance/partsmaster/metal-repair" >Metal Repair</a></li><li class="item-570"><a href="/en-in/solutions/maintenance/partsmaster/rubber-repair" >Rubber Repair</a></li><li class="item-571"><a href="/en-in/solutions/maintenance/partsmaster/surface-coating-protection" >Surface Coating &amp; Protection</a></li><li class="item-572"><a href="/en-in/solutions/maintenance/partsmaster/drill-bits" >Cryo Drill Bits</a></li></ul></li><li class="item-132 deeper parent"><a href="/en-in/solutions/maintenance/bioamp-systems" >BioAmp Systems</a><ul class="nav-child unstyled small"><li class="item-257"><a href="/en-in/solutions/maintenance/bioamp-systems/bioamp-300" >BioAmp CM</a></li><li class="item-258"><a href="/en-in/solutions/maintenance/bioamp-systems/bioamp-750-ccu" >BioAmp 750 CCU</a></li><li class="item-259"><a href="/en-in/solutions/maintenance/bioamp-systems/bioamp-5000-ccu" >BioAmp 5000 CCU</a></li></ul></li><li class="item-490"><a href="/en-in/solutions/maintenance/ecostorm" >ecoSTORM</a></li><li class="item-261 deeper parent"><a href="/en-in/solutions/maintenance/drains" >Drains</a><ul class="nav-child unstyled small"><li class="item-588"><a href="/en-in/solutions/maintenance/drains/freeflow-100" >FreeFlow 100</a></li></ul></li><li class="item-186"><a href="/en-in/solutions/maintenance/free-flow" >FreeFlow</a></li><li class="item-262"><a href="/en-in/solutions/maintenance/waste-water-treatment-plant" >Wastewater Treatment Plant</a></li><li class="item-263"><a href="/en-in/solutions/maintenance/lift-stations" >Lift Stations</a></li><li class="item-264"><a href="/en-in/solutions/maintenance/grease-traps" >Grease Traps</a></li></ul></li><li class="item-133 deeper parent"><a href="/en-in/solutions/water-treatment" ><img src="/images/NCH_Water_Treatment_Logo_Gradient.svg" alt="Water Treatment" /><span class="image-title">Water Treatment</span></a><ul class="nav-child unstyled small"><li class="item-241"><a href="/en-in/solutions/water-treatment/cooling-treatment" >Cooling Tower Water Treatment</a></li><li class="item-242"><a href="/en-in/solutions/water-treatment/boiler-treatment" >Boiler Treatment</a></li><li class="item-178 deeper parent"><a href="/en-in/solutions/water-treatment/solid-solutions" >Solid Solutions</a><ul class="nav-child unstyled small"><li class="item-238"><a href="/en-in/solutions/water-treatment/solid-solutions/applications" >Applications</a></li><li class="item-239"><a href="/en-in/solutions/water-treatment/solid-solutions/how-it-works" >How it works</a></li></ul></li><li class="item-240"><a href="/en-in/solutions/water-treatment/legionella" >Legionella</a></li><li class="item-243"><a href="/en-in/solutions/water-treatment/equipment-solutions" >Equipment Solutions</a></li><li class="item-180"><a href="/en-in/solutions/water-treatment/expert-services" >Expert Services</a></li><li class="item-587"><a href="/en-in/solutions/water-treatment/cleaning-services" >Cleaning &amp; Services</a></li><li class="item-181"><a href="/en-in/solutions/water-treatment/resourcefully-green" >Resourcefully Green</a></li><li class="item-732 deeper parent"><a href="/en-in/solutions/water-treatment/innovations" >Innovations</a><ul class="nav-child unstyled small"><li class="item-733"><a href="/en-in/solutions/water-treatment/innovations/aquadart®-automation-control-systems" >aquaDART® AUTOMATION CONTROL SYSTEMS</a></li><li class="item-734"><a href="/en-in/solutions/water-treatment/innovations/handichem™-solid-water-treatment-solutions" >HandiChem™ Solid Water Treatment Solutions</a></li><li class="item-736"><a href="/en-in/solutions/water-treatment/innovations/bioexile-biofilm-cleaning-systems" >BioeXile® Biofilm Cleaning Systems</a></li><li class="item-1359"><a href="/en-in/solutions/water-treatment/innovations/biodart-biofouling-monitor" >bioDART BioFouling Monitor</a></li><li class="item-1361"><a href="/en-in/solutions/water-treatment/innovations/biofilm-control-solution" >Biofilm Control Solution</a></li></ul></li><li class="item-1430"><a href="/en-in/nch-insights/chem-aqua-library" >Chem-Aqua Library</a></li></ul></li><li class="item-134 deeper parent"><a href="/en-in/solutions/lubricants" ><img src="/images/NCH_Lubricants_Logo_Gradient.svg" alt="Lubricants" /><span class="image-title">Lubricants</span></a><ul class="nav-child unstyled small"><li class="item-172 deeper parent"><a href="/en-in/solutions/lubricants/greases-oils" >Greases &amp; Oils</a><ul class="nav-child unstyled small"><li class="item-189"><a href="/en-in/solutions/lubricants/greases-oils/chain-cable" >Chain &amp; Cable</a></li><li class="item-190"><a href="/en-in/solutions/lubricants/greases-oils/compressor-oils" >Compressor Oils</a></li><li class="item-716"><a href="/en-in/solutions/lubricants/greases-oils/food-grade-grease" >Food Grade Grease</a></li><li class="item-191"><a href="/en-in/solutions/lubricants/greases-oils/gear-oils" >Gear Oils</a></li><li class="item-192"><a href="/en-in/solutions/lubricants/greases-oils/greases" >Greases</a></li><li class="item-193"><a href="/en-in/solutions/lubricants/greases-oils/hydraulic-oils" >Hydraulic Oils</a></li><li class="item-194"><a href="/en-in/solutions/lubricants/greases-oils/motor-oils" >Motor Oils</a></li></ul></li><li class="item-171"><a href="/en-in/solutions/lubricants/fuel-additives" >Fuel Additives</a></li><li class="item-173"><a href="/en-in/solutions/lubricants/metal-working-fluids" >Metal Working Fluids</a></li><li class="item-174"><a href="/en-in/solutions/lubricants/release-agents" >Release Agents</a></li><li class="item-562"><a href="/en-in/solutions/lubricants/speciality-lubricants" >Speciality Lubricants</a></li><li class="item-529 deeper parent"><a href="/en-in/solutions/lubricants/cleaning-services" >Cleaning &amp; Services</a><ul class="nav-child unstyled small"><li class="item-558"><a href="/en-in/solutions/lubricants/cleaning-services/compressor-cleaning-services" >Compressor Cleaning Services</a></li><li class="item-559"><a href="/en-in/solutions/lubricants/cleaning-services/radiator-cleaning-services" >Radiator Cleaning Services</a></li><li class="item-560"><a href="/en-in/solutions/lubricants/cleaning-services/chain-cleaning-services" >Chain Cleaning Services</a></li></ul></li><li class="item-577"><a href="/en-in/solutions/maintenance/water-based-parts-cleaning" >Water Based Parts Cleaning</a></li></ul></li><li class="item-131 deeper parent"><a href="/en-in/solutions/nch-facilities" ><img src="/images/nch-facilities-platform-logo.png" alt="NCH Facilities" /><span class="image-title">NCH Facilities</span></a><ul class="nav-child unstyled small"><li class="item-502"><a href="/en-in/solutions/nch-facilities/odor-removal" >Odor Removal</a></li><li class="item-695"><a href="/en-in/solutions/nch-facilities/drain-and-wastewater-treatment" >Drain and Wastewater Treatment</a></li><li class="item-696"><a href="/en-in/solutions/nch-facilities/hvac-maintenance" >HVAC Maintenance</a></li><li class="item-697"><a href="/en-in/solutions/nch-facilities/facilities-maintenance-and-safety" >Facilities Maintenance and Safety</a></li></ul></li><li class="item-472 deeper parent"><a href="/en-in/solutions/food-safety" ><img src="/images/NCH_Food Safety_Logo_Gradient.svg" alt="Food Safety" /><span class="image-title">Food Safety</span></a><ul class="nav-child unstyled small"><li class="item-483"><a href="/en-in/solutions/food-safety/disinfectants-sanitation" >Disinfectants &amp; Sanitation</a></li><li class="item-485"><a href="/en-in/solutions/food-safety/hand-care" >Hand Care</a></li><li class="item-486"><a href="/en-in/solutions/food-safety/insecticides" >Insecticides</a></li><li class="item-487"><a href="/en-in/solutions/food-safety/haccp" >H.A.C.C.P.</a></li></ul></li><li class="item-473 deeper parent"><a href="/en-in/solutions/agriculture" ><img src="/images/NCH_Life_Sciences_Logo_Gradient.svg" alt="Life Sciences" /><span class="image-title">Life Sciences</span></a><ul class="nav-child unstyled small"><li class="item-474 deeper parent"><a href="/en-in/solutions/agriculture/swine-farms" >Swine Farms</a><ul class="nav-child unstyled small"><li class="item-478"><a href="/en-in/solutions/agriculture/swine-farms/animal-health" >Animal Health</a></li><li class="item-479"><a href="/en-in/solutions/agriculture/swine-farms/environment" >Environment</a></li><li class="item-480"><a href="/en-in/solutions/agriculture/swine-farms/waste-water" >Wastewater</a></li></ul></li><li class="item-475 deeper parent"><a href="/en-in/solutions/agriculture/poultry-farms" >Poultry Farms</a><ul class="nav-child unstyled small"><li class="item-481"><a href="/en-in/solutions/agriculture/poultry-farms/animal-health" >Animal Health</a></li><li class="item-482"><a href="/en-in/solutions/agriculture/poultry-farms/environment" >Environment</a></li></ul></li><li class="item-476"><a href="/en-in/solutions/agriculture/plant-nurseries" >Plant Nurseries</a></li><li class="item-477"><a href="/en-in/solutions/agriculture/probiotics-101" >Probiotics 101</a></li></ul></li></ul></li><li class="item-448 divider deeper parent"><span class="separator ">Products</span>
+<ul class="nav-child unstyled small"><li class="item-946 deeper parent"><a href="/en-in/products/maintenance" ><img src="/images/NCH_Maintenance_Logo_Gradient.svg" alt="Maintenance" /><span class="image-title">Maintenance</span></a><ul class="nav-child unstyled small"><li class="item-938"><a href="/en-in/products/maintenance/electrical" >Electrical</a></li><li class="item-936"><a href="/en-in/products/maintenance/cleaners" >Cleaners</a></li><li class="item-937"><a href="/en-in/products/maintenance/corrosion" >Corrosion</a></li><li class="item-939"><a href="/en-in/products/maintenance/hvac-cooling" >HVAC &amp; Cooling</a></li><li class="item-940"><a href="/en-in/products/maintenance/hygiene" >Hygiene</a></li><li class="item-941"><a href="/en-in/products/maintenance/odor-control" >Odor Control</a></li><li class="item-1303"><a href="/en-in/products/maintenance/parts-cleaning" >Parts Cleaning</a></li><li class="item-1304"><a href="/en-in/products/maintenance/repair" >Repair</a></li><li class="item-1305"><a href="/en-in/products/maintenance/sealants" >Sealants</a></li><li class="item-1306"><a href="/en-in/products/maintenance/wastewater" >Wastewater</a></li></ul></li><li class="item-942 deeper parent"><a href="/en-in/solutions/water-treatment" ><img src="/images/NCH_Water Treatment_Logo_Gradient.png" alt="Chem Aqua" /><span class="image-title">Chem Aqua</span></a><ul class="nav-child unstyled small"><li class="item-928"><a href="/en-in/products/chem-aqua/chem-aquawatertreatment" >Chem-Aquawatertreatment</a></li></ul></li><li class="item-944 deeper parent"><a href="/en-in/products/lubricants" ><img src="/images/NCH_Lubricants_Logo_Gradient.svg" alt="Lubricants" /><span class="image-title">Lubricants</span></a><ul class="nav-child unstyled small"><li class="item-932"><a href="/en-in/products/lubricants/chain-and-cable" >Chain And Cable</a></li><li class="item-935"><a href="/en-in/products/lubricants/grease" >Grease</a></li><li class="item-933"><a href="/en-in/products/lubricants/oils" >Oils</a></li><li class="item-934"><a href="/en-in/products/lubricants/specialty-lubricants" >Specialty Lubricants</a></li></ul></li><li class="item-1352"><a href="/en-in/products/facilities" ><img src="/images/nch-facilities-platform-logo.png" alt="Facilities" /><span class="image-title">Facilities</span></a></li><li class="item-1313"><a href="/en-in/products/food-safety" ><img src="/images/NCH_Food Safety_Logo_Gradient.svg" alt="Food Safety" /><span class="image-title">Food Safety</span></a></li><li class="item-943"><a href="https://www.nchlifesciences.com" ><img src="/images/NCH_Life_Sciences_Logo_Gradient.png" alt="Life Sciences" /><span class="image-title">Life Sciences</span></a></li></ul></li><li class="item-141 divider deeper parent"><span class="separator ">Applications</span>
+<ul class="nav-child unstyled small"><li class="item-145 deeper parent"><a href="/en-in/customers/commercial" >Commercial</a><ul class="nav-child unstyled small"><li class="item-449"><a href="/en-in/customers/commercial/hotels-hospitality" >Hotels &amp; Hospitality</a></li><li class="item-450"><a href="/en-in/customers/commercial/food-beverages" >Food &amp; Beverages</a></li><li class="item-451"><a href="/en-in/customers/commercial/shopping-malls" >Shopping Malls</a></li><li class="item-452"><a href="/en-in/customers/commercial/hospitals" >Hospitals</a></li><li class="item-453"><a href="/en-in/customers/commercial/schools" >Schools</a></li><li class="item-454"><a href="/en-in/customers/commercial/amusement-parks" >Amusement Parks</a></li><li class="item-455"><a href="/en-in/customers/commercial/commercial-buildings" >Commercial Buildings</a></li><li class="item-456"><a href="/en-in/customers/commercial/golf" >Golf</a></li><li class="item-585"><a href="/en-in/customers/commercial/ski-resorts" >Ski Resorts</a></li></ul></li><li class="item-146 deeper parent"><a href="/en-in/customers/industrial" >Industrial</a><ul class="nav-child unstyled small"><li class="item-457"><a href="/en-in/customers/industrial/steel-metal-works" >Steel &amp; Metal Works</a></li><li class="item-458"><a href="/en-in/customers/industrial/food-beverage" >Food &amp; Beverage</a></li><li class="item-459"><a href="/en-in/customers/industrial/pulp-paper" >Pulp &amp; Paper</a></li><li class="item-460"><a href="/en-in/customers/industrial/automotive-manufacturing" >Automotive Manufacturing</a></li><li class="item-461"><a href="/en-in/customers/industrial/pharmaceuticals" >Pharmaceuticals</a></li><li class="item-462"><a href="/en-in/customers/industrial/agriculture" >Life Sciences</a></li><li class="item-586"><a href="/en-in/customers/industrial/general-manufacturing" >General Manufacturing</a></li></ul></li><li class="item-147 deeper parent"><a href="/en-in/customers/infrastructure" >Infrastructure</a><ul class="nav-child unstyled small"><li class="item-463"><a href="/en-in/customers/infrastructure/water-treatment" >Water Treatment</a></li><li class="item-464"><a href="/en-in/customers/infrastructure/waste-management" >Waste Management</a></li><li class="item-465"><a href="/en-in/customers/infrastructure/mining-oil-gas" >Mining, Oil &amp; Gas</a></li><li class="item-466"><a href="/en-in/customers/infrastructure/construction" >Construction</a></li><li class="item-467"><a href="/en-in/customers/infrastructure/marine" >Marine</a></li><li class="item-468"><a href="/en-in/customers/infrastructure/transportation" >Transportation</a></li><li class="item-469"><a href="/en-in/customers/infrastructure/power-generation" >Power Generation</a></li></ul></li></ul></li><li class="item-142 deeper parent"><a href="/en-in/about-nch" >About</a><ul class="nav-child unstyled small"><li class="item-210"><a href="/en-in/about-nch/history" >History</a></li><li class="item-211"><a href="/en-in/about-nch/mission-values" >Mission &amp; Values</a></li><li class="item-213"><a href="/en-in/about-nch/customer-approach" >Customer Approach</a></li><li class="item-715"><a href="/en-in/about-nch/nch-cares" >NCH Cares</a></li></ul></li><li class="item-1398 deeper parent"><a href="/en-in/covid-19" >COVID-19</a><ul class="nav-child unstyled small"><li class="item-1399 deeper parent"><a href="/en-in/covid-19/disinfection-program" >Disinfection Program</a><ul class="nav-child unstyled small"><li class="item-1420"><a href="#clean" >Clean</a></li><li class="item-1421"><a href="#disinfection" >Disinfection</a></li><li class="item-1422"><a href="#sanitization" >Sanitization</a></li></ul></li><li class="item-1400 deeper parent"><a href="/en-in/covid-19/cooling-water-system" >Cooling Water System</a><ul class="nav-child unstyled small"><li class="item-1416"><a href="#wake-up" >Wake Up Audit</a></li><li class="item-1417"><a href="#cleaning" >Cleaning</a></li><li class="item-1418"><a href="#disinfection" >Disinfection</a></li><li class="item-1419"><a href="#corrosion" >Anti Corrosion</a></li></ul></li><li class="item-1401 deeper parent"><a href="/en-in/covid-19/wake-up-your-building" >Wake Up Your Building</a><ul class="nav-child unstyled small"><li class="item-1412"><a href="#air-quality" >Air Quality</a></li><li class="item-1413"><a href="#hvac" >HVAC</a></li><li class="item-1414"><a href="#drain" >Drain</a></li><li class="item-1415"><a href="#wastewater" >Wastewater</a></li></ul></li><li class="item-1402 deeper parent"><a href="/en-in/covid-19/machinery-maintenance-program" >Machinery Maintenance Program</a><ul class="nav-child unstyled small"><li class="item-1408"><a href="#repair" >Repair</a></li><li class="item-1409"><a href="#clean" >Clean in Place</a></li><li class="item-1410"><a href="#sanitization" >Area Sanitization</a></li><li class="item-1411"><a href="#hvac" >HVAC</a></li></ul></li><li class="item-1403 deeper parent"><a href="/en-in/covid-19/food-safety" >Food Safety</a><ul class="nav-child unstyled small"><li class="item-1404"><a href="#hygiene" >Personnel Hygiene</a></li><li class="item-1405"><a href="#cleaning" >Environmental Cleaning</a></li><li class="item-1407"><a href="#disinfection" >Disinfection</a></li><li class="item-1406"><a href="#pest-management" >Pest Management</a></li></ul></li></ul></li><li class="item-640 active deeper parent"><a href="/en-in/nch-insights" >News</a><ul class="nav-child unstyled small"><li class="item-1444"><a href="https://nchwebinar.com/" target="_blank" rel="noopener noreferrer">Webinar</a></li><li class="item-713"><a href="/en-in/nch-insights/did-you-know" >Did You Know?</a></li><li class="item-667 current active"><a href="/en-in/nch-insights/industry-news" >Industry News</a></li><li class="item-668"><a href="/en-in/nch-insights/press-releases" >Press Releases</a></li></ul></li><li class="item-1362 deeper parent"><a href="/en-in/careers" >Careers</a><ul class="nav-child unstyled small"><li class="item-1376"><a href="/en-in/careers/vacancies/india" >Vacancies</a></li><li class="item-1373"><a href="/en-in/careers/rewards-benefits" >Rewards &amp; Benefits</a></li><li class="item-1371"><a href="/en-in/careers/who-we-look-for" >Who We Look For</a></li><li class="item-1372"><a href="/en-in/careers/why-choose-us" >Why Choose Us</a></li><li class="item-1363 deeper parent"><a href="/en-in/careers/job-categories" >Job Categories</a><ul class="nav-child unstyled small"><li class="item-1366"><a href="/en-in/careers/job-categories/marketing" >Marketing</a></li><li class="item-1367"><a href="/en-in/careers/job-categories/research-development" >Research &amp; Development</a></li><li class="item-1368"><a href="/en-in/careers/job-categories/supply-chain" >Supply Chain</a></li><li class="item-1369"><a href="/en-in/careers/job-categories/it" >IT</a></li><li class="item-1370"><a href="/en-in/careers/job-categories/hr" >HR</a></li><li class="item-1364"><a href="/en-in/careers/job-categories/sales" >Sales</a></li><li class="item-1365"><a href="/en-in/careers/job-categories/sales-support" >Sales Support</a></li></ul></li><li class="item-1374"><a href="/en-in/careers/learning-development" >Learning &amp; Development</a></li><li class="item-1375"><a href="/en-in/careers/join-us" >Join Us</a></li></ul></li><li class="item-471"><a href="/en-in/contact-us" >Contact</a></li></ul>
+			</div>
+						
+			
+		</div>
+	
+					</div>
+				</div>
+
+				<script type="text/javascript">
+					jQuery(document).ready(function(){
+						jQuery("#togglemenutrigger").zentoggle();
+					});
+				</script>
+				
+	<div class="fullWrap topenabled">
+		
+			<!-- top -->
+			<div id="topwrap">
+				<div class="container">
+					<div class="row">
+						
+				<div id="top1" class="zen-col zen-grid-6">
+							<div class="moduletable logo">
+			
+						
+			
+						
+			
+			
+						<div class="jbmoduleBody">
+			
+
+<div class="custom"  >
+	<p><a href="/en-in/" title="NCH Home"><span><img src="/images/index.png" alt="" /></span></a><a href="/en-in/" title="NCH Home"><span class="hide">Cleaning water, conserving energy, maintaining equipment.</span></a></p></div>
+			</div>
+						
+			
+		</div>
+			<div class="moduletable phone-overlay-content">
+			
+						
+			
+						
+			
+			
+						<div class="jbmoduleBody">
+			
+
+<div class="custom"  >
+	<p><a href="#" title="close" id="phone-overlay-close">Close <span class="x">X</span></a></p>
+<div class="phone-content-container"><header>
+<h4>Contact Us</h4>
+</header><main> <img src="/images/phone-icon-cta.svg" title="Phone icon" />
+<p class="call">Call IND: <a href="tel:914426257753">+91 44 2625 7753</a></p>
+<p class="alternate-contact">or email us here:</p>
+<a href="/en-in/contact-us" title="enquire" class="white-cta">Enquire</a> </main></div></div>
+			</div>
+						
+			
+		</div>
+			<div class="moduletable phone-overlay-icon">
+			
+						
+			
+						
+			
+			
+						<div class="jbmoduleBody">
+			
+
+<div class="custom"  >
+	<a href="#" title="Contact Overlay" id="phone-icon-cta"><img src="/images/phone-icon-cta.svg" alt="phone symbol" /></a></div>
+			</div>
+						
+			
+		</div>
+			<div class="moduletable mobilelogo">
+			
+						
+			
+						
+			
+			
+						<div class="jbmoduleBody">
+			
+
+<div class="custom"  >
+	<p><a href="/en-in/"><img src="/images/mobile-logo.svg" alt="NCH-Asia" /></a></p></div>
+			</div>
+						
+			
+		</div>
+	
+				</div>
+			
+				<div id="top2" class="zen-col zen-grid-6">
+							<div class="moduletable langswitcher">
+			
+						
+			
+						
+			
+			
+						<div class="jbmoduleBody">
+			
+
+
+<div class="mod-languages langswitcher  advanced-dropdown">
+
+    
+<form name="lang" method="post" action="https://www.nchasia.com/en-in/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment">
+    
+        <script type="application/javascript">
+            jQuery(function() {
+                var speed = 150;
+                jQuery('div.advanced-dropdown').hover(
+                    function()
+                    {
+                        jQuery(this).find('ul').filter(':not(:animated)').slideDown({duration: speed});
+                    },
+                    function()
+                    {
+                        jQuery(this).find('ul').filter(':not(:animated)').slideUp({duration: speed});
+                    }
+                );
+            });
+
+        </script>
+
+
+
+        <!-- >>> [FREE] >>> -->
+                                                                                                <a href="javascript:;" class="langChoose">
+                                          <img src="/media/mod_falang/images/in.gif" alt="English (Indian)" title="English (Indian)" /><span>India</span>                    <span class="caret"></span>
+                </a>
+                                                                                                                                                                                                                                    <ul class="lang-inline" style="display: none">
+                                                                                <li class="" dir="ltr">
+                                                    <a href="/en-au/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment">
+                                                                    <img src="/media/mod_falang/images/en_au.gif" alt="Australia" title="Australia" /><span>Australia</span>                                                                                                                            </a>
+                                            </li>
+                                                                                                                  <li class="" dir="ltr">
+                                                    <a href="/en-hk/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment">
+                                                                    <img src="/media/mod_falang/images/hk.gif" alt="Hong Kong S.A.R of China" title="Hong Kong S.A.R of China" /><span>Hong Kong S.A.R of China</span>                                                                                                                            </a>
+                                            </li>
+                                                                                                                  <li class="" dir="ltr">
+                                                    <a href="/en-id/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment">
+                                                                    <img src="/media/mod_falang/images/id.gif" alt="Indonesia" title="Indonesia" /><span>Indonesia</span>                                                                                                                            </a>
+                                            </li>
+                                                                                                                  <li class="lang-active" dir="ltr">
+                                                    <a href="/en-in/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment">
+                                                                    <img src="/media/mod_falang/images/in.gif" alt="India" title="India" /><span>India</span>                                                                                                 <i class="fa fa-check lang_checked"></i>                             </a>
+                                            </li>
+                                                                                                                  <li class="" dir="ltr">
+                                                    <a href="/ja-jp/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment">
+                                                                    <img src="/media/mod_falang/images/ja.gif" alt="日本" title="日本" /><span>日本</span>                                                                                                                            </a>
+                                            </li>
+                                                                                                                  <li class="" dir="ltr">
+                                                    <a href="/ko-kr/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment">
+                                                                    <img src="/media/mod_falang/images/ko.gif" alt="대한민국" title="대한민국" /><span>대한민국</span>                                                                                                                            </a>
+                                            </li>
+                                                                                                                  <li class="" dir="ltr">
+                                                    <a href="/en-my/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment">
+                                                                    <img src="/media/mod_falang/images/my.gif" alt="Malaysia" title="Malaysia" /><span>Malaysia</span>                                                                                                                            </a>
+                                            </li>
+                                                                                                                  <li class="" dir="ltr">
+                                                    <a href="/en-nz/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment">
+                                                                    <img src="/media/mod_falang/images/nz.gif" alt="New Zealand" title="New Zealand" /><span>New Zealand</span>                                                                                                                            </a>
+                                            </li>
+                                                                                                                  <li class="" dir="ltr">
+                                                    <a href="/en-ph/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment">
+                                                                    <img src="/media/mod_falang/images/ph.gif" alt="Philippines" title="Philippines" /><span>Philippines</span>                                                                                                                            </a>
+                                            </li>
+                                                                                                                  <li class="" dir="ltr">
+                                                    <a href="/en-sg/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment">
+                                                                    <img src="/media/mod_falang/images/sg.gif" alt="Singapore" title="Singapore" /><span>Singapore</span>                                                                                                                            </a>
+                                            </li>
+                                                                                                                  <li class="" dir="ltr">
+                                                    <a href="/zh-tw/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment">
+                                                                    <img src="/media/mod_falang/images/tw.gif" alt="台灣" title="台灣" /><span>台灣</span>                                                                                                                            </a>
+                                            </li>
+                                                                                                                  <li class="" dir="ltr">
+                                                    <a href="/en-th/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment">
+                                                                    <img src="/media/mod_falang/images/th_th.gif" alt="Thailand (Eng)" title="Thailand (Eng)" /><span>Thailand (Eng)</span>                                                                                                                            </a>
+                                            </li>
+                                                                                                                  <li class="" dir="ltr">
+                                                    <a href="/th-th/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment">
+                                                                    <img src="/media/mod_falang/images/th.gif" alt="ไทย" title="ไทย" /><span>ไทย</span>                                                                                                                            </a>
+                                            </li>
+                                                                                                                  <li class="" dir="ltr">
+                                                    <a href="/en-vn/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment">
+                                                                    <img src="/media/mod_falang/images/vn.gif" alt="Vietnam" title="Vietnam" /><span>Vietnam</span>                                                                                                                            </a>
+                                            </li>
+                                                      </ul>
+        <!-- <<< [FREE] <<< -->
+    </form>
+
+</div>
+			</div>
+						
+			
+		</div>
+			<div class="moduletable social-links">
+			
+						
+			
+						
+			
+			
+						<div class="jbmoduleBody">
+			
+
+<div class="custom"  >
+	<ul>
+<li><a href="https://www.youtube.com/channel/UCU7sNTGytiWz4GCLjJdVDnw" title="youtube" target="_blank" class="googleplus" rel="noopener noreferrer">YouTube</a></li>
+<li><a href="https://twitter.com/nch_asia" title="twitter" target="_blank" class="twitter" rel="noopener noreferrer">Twitter</a></li>
+<li><a href="https://www.linkedin.com/company/6401752" title="linkedin" target="_blank" class="linkedin" rel="noopener noreferrer">LinkedIn</a></li>
+<li><a href="https://www.facebook.com/nchcorpindia/" title="facebook" target="_blank" class="facebook" rel="noopener noreferrer">Facebook</a></li>
+
+</ul></div>
+			</div>
+						
+			
+		</div>
+			<div class="moduletable show-search">
+			
+						
+			
+						
+			
+			
+						<div class="jbmoduleBody">
+			
+
+<div class="custom"  >
+	<button type="submit" id="show-search">Show Search</button>
+<button type="submit" id="cancel-search">Cancel</button>
+</div>
+			</div>
+						
+			
+		</div>
+			<div class="moduletable techsheet-cta">
+			
+						
+			
+						
+			
+			
+						<div class="jbmoduleBody">
+			
+
+<div class="custom"  >
+	<p><a class="blue-cta" href="/en-in/request-techsheet-sds">Request Techsheet/SDS</a></p></div>
+			</div>
+						
+			
+		</div>
+			<div class="moduletable site-search
+">
+			
+						
+			
+						
+			
+			
+						<div class="jbmoduleBody">
+			
+
+<div class="custom"  >
+	  
+<div class="search-con"> 
+<div class="search"> 
+<div id="website-search" class="active">		<div class="moduletable">
+						<div class="search mod_search96">
+	<form action="/en-in/nch-insights/industry-news" method="post" class="form-inline" role="search">
+		<label for="mod-search-searchword96" class="element-invisible">Search ...</label> <input name="searchword" id="mod-search-searchword96" maxlength="200"  class="inputbox search-query input-medium" type="search" size="20" placeholder="search website" /> <button class="button btn btn-primary" onclick="this.form.searchword.focus();">search</button>		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="152" />
+	</form>
+</div>
+		</div>
+	</div> 
+</div> 
+</div> 
+</div>
+			</div>
+						
+			
+		</div>
+	
+				</div>
+			
+					</div>
+				</div>
+			</div>
+			<!-- top -->
+		
+							<!-- Nav wrapper -->
+					<div id="navwrap">
+						<div class="menu container">
+							<div class="row">
+								<div class="inner">
+									<div id="navwrapper">
+
+										
+										<div id="nav" class="zenleft zen-grid-7">
+											<div id="menuwrap">
+														<div class="moduletable navbar-default">
+			
+						
+			
+						
+			
+			
+						<div class="jbmoduleBody">
+			
+			<!--[if lte IE 7]>
+			<link href="/modules/mod_maximenuck/themes/blank/css/ie7.css" rel="stylesheet" type="text/css" />
+			<![endif]--><!-- debut Maximenu CK, par cedric keiflin -->
+	<div class="maximenuckh ltr" id="maximenuck320" style="z-index:10;">
+        <div class="maxiroundedleft"></div>
+        <div class="maxiroundedcenter">
+            <ul class=" navbar-default maximenuck">
+								<label for="maximenuck320-maximenumobiletogglerck" class="maximenumobiletogglericonck" style="display:none;">&#x2261;</label><input id="maximenuck320-maximenumobiletogglerck" class="maximenumobiletogglerck" type="checkbox" style="display:none;"/>				<li data-level="1" class="maximenuck item101 first level1 " style="z-index : 12000;" ><a class="maximenuck " href="/en-in/"><span class="titreck">Home</span></a>
+		</li><li data-level="1" class="maximenuck headingck item128 parent level1 " style="z-index : 11999;" ><span class="separator "><span class="titreck">Solutions</span></span>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="2" class="maximenuck item129 parent first level2 " style="z-index : 11998;" ><a class="maximenuck " href="/en-in/solutions/maintenance"><img src="/images/NCH_Maintenance_Logo_Gradient.svg" alt="Maintenance" style="display: block; margin: 0 auto;" /><span class="titreck">Maintenance</span> </a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck item165 first level3 " style="z-index : 11997;" ><a class="maximenuck " href="/en-in/solutions/maintenance/industrial-degreasers"><span class="titreck">Industrial Degreasers</span></a>
+		</li><li data-level="3" class="maximenuck item170 level3 " style="z-index : 11996;" ><a class="maximenuck " href="/en-in/solutions/maintenance/descalers"><span class="titreck">Descalers</span></a>
+		</li><li data-level="3" class="maximenuck item166 level3 " style="z-index : 11995;" ><a class="maximenuck " href="/en-in/solutions/maintenance/rust-corrosion"><span class="titreck">Anti Corrosion Grease</span></a>
+		</li><li data-level="3" class="maximenuck item130 first level3 " style="z-index : 11994;" ><a class="maximenuck " href="/en-in/solutions/maintenance/sealants-coatings"><span class="titreck">Sealants &amp; Coatings</span></a>
+		</li><li data-level="3" class="maximenuck item167 level3 " style="z-index : 11993;" ><a class="maximenuck " href="/en-in/solutions/maintenance/cleaning-maintenance"><span class="titreck">Cleaning &amp; Maintenance Services</span></a>
+		</li><li data-level="3" class="maximenuck item275 first level3 " style="z-index : 11992;" ><a class="maximenuck " href="/en-in/solutions/maintenance/absorbents"><span class="titreck">Absorbents</span></a>
+		</li><li data-level="3" class="maximenuck item277 level3 " style="z-index : 11991;" ><a class="maximenuck " href="/en-in/solutions/maintenance/floor-care"><span class="titreck">Floor Care</span></a>
+		</li><li data-level="3" class="maximenuck item276 level3 " style="z-index : 11990;" ><a class="maximenuck " href="/en-in/solutions/maintenance/graffiti-removers"><span class="titreck">Graffiti Removers</span></a>
+		</li><li data-level="3" class="maximenuck item279 level3 " style="z-index : 11989;" ><a class="maximenuck " href="/en-in/solutions/maintenance/hand-care"><span class="titreck">Hand Care</span></a>
+		</li><li data-level="3" class="maximenuck item225 level3 " style="z-index : 11988;" ><a class="maximenuck " href="/en-in/solutions/maintenance/kitchens"><span class="titreck">Kitchens</span></a>
+		</li><li data-level="3" class="maximenuck item226 level3 " style="z-index : 11987;" ><a class="maximenuck " href="/en-in/solutions/maintenance/bathrooms"><span class="titreck">Bathrooms</span></a>
+		</li><li data-level="3" class="maximenuck item278 level3 " style="z-index : 11986;" ><a class="maximenuck " href="/en-in/solutions/maintenance/odor-control"><span class="titreck">Odor Control</span></a>
+		</li><li data-level="3" class="maximenuck item137 first level3 " style="z-index : 11985;" ><a class="maximenuck " href="/en-in/solutions/maintenance/water-based-parts-cleaning"><span class="titreck">Water Based Parts Cleaning</span></a>
+		</li><li data-level="3" class="maximenuck item561 first level3 " style="z-index : 11984;" ><a class="maximenuck " href="/en-in/solutions/maintenance/partsmaster"><span class="titreck">Partsmaster</span></a>
+		</li><li data-level="3" class="maximenuck item132 first level3 " style="z-index : 11983;" ><a class="maximenuck " href="/en-in/solutions/maintenance/bioamp-systems"><span class="titreck">BioAmp Systems</span></a>
+		</li><li data-level="3" class="maximenuck item490 first level3 " style="z-index : 11982;" ><a class="maximenuck " href="/en-in/solutions/maintenance/ecostorm"><span class="titreck">ecoSTORM</span></a>
+		</li><li data-level="3" class="maximenuck item261 level3 " style="z-index : 11981;" ><a class="maximenuck " href="/en-in/solutions/maintenance/drains"><span class="titreck">Drains</span></a>
+		</li><li data-level="3" class="maximenuck item186 first level3 " style="z-index : 11980;" ><a class="maximenuck " href="/en-in/solutions/maintenance/free-flow"><span class="titreck">FreeFlow</span></a>
+		</li><li data-level="3" class="maximenuck item262 level3 " style="z-index : 11979;" ><a class="maximenuck " href="/en-in/solutions/maintenance/waste-water-treatment-plant"><span class="titreck">Wastewater Treatment Plant</span></a>
+		</li><li data-level="3" class="maximenuck item263 level3 " style="z-index : 11978;" ><a class="maximenuck " href="/en-in/solutions/maintenance/lift-stations"><span class="titreck">Lift Stations</span></a>
+		</li><li data-level="3" class="maximenuck item264 last level3 " style="z-index : 11977;" ><a class="maximenuck " href="/en-in/solutions/maintenance/grease-traps"><span class="titreck">Grease Traps</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li data-level="2" class="maximenuck item133 parent level2 " style="z-index : 11976;" ><a class="maximenuck " href="/en-in/solutions/water-treatment"><img src="/images/NCH_Water_Treatment_Logo_Gradient.svg" alt="Water Treatment" style="display: block; margin: 0 auto;" /><span class="titreck">Water Treatment</span> </a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck item241 first level3 " style="z-index : 11975;" ><a class="maximenuck " href="/en-in/solutions/water-treatment/cooling-treatment"><span class="titreck">Cooling Tower Water Treatment</span></a>
+		</li><li data-level="3" class="maximenuck item242 level3 " style="z-index : 11974;" ><a class="maximenuck " href="/en-in/solutions/water-treatment/boiler-treatment"><span class="titreck">Boiler Treatment</span></a>
+		</li><li data-level="3" class="maximenuck item178 level3 " style="z-index : 11973;" ><a class="maximenuck " href="/en-in/solutions/water-treatment/solid-solutions"><span class="titreck">Solid Solutions</span></a>
+		</li><li data-level="3" class="maximenuck item240 first level3 " style="z-index : 11972;" ><a class="maximenuck " href="/en-in/solutions/water-treatment/legionella"><span class="titreck">Legionella</span></a>
+		</li><li data-level="3" class="maximenuck item243 level3 " style="z-index : 11971;" ><a class="maximenuck " href="/en-in/solutions/water-treatment/equipment-solutions"><span class="titreck">Equipment Solutions</span></a>
+		</li><li data-level="3" class="maximenuck item180 level3 " style="z-index : 11970;" ><a class="maximenuck " href="/en-in/solutions/water-treatment/expert-services"><span class="titreck">Expert Services</span></a>
+		</li><li data-level="3" class="maximenuck item587 level3 " style="z-index : 11969;" ><a class="maximenuck " href="/en-in/solutions/water-treatment/cleaning-services"><span class="titreck">Cleaning &amp; Services</span></a>
+		</li><li data-level="3" class="maximenuck item181 level3 " style="z-index : 11968;" ><a class="maximenuck " href="/en-in/solutions/water-treatment/resourcefully-green"><span class="titreck">Resourcefully Green</span></a>
+		</li><li data-level="3" class="maximenuck item732 level3 " style="z-index : 11967;" ><a class="maximenuck " href="/en-in/solutions/water-treatment/innovations"><span class="titreck">Innovations</span></a>
+		</li><li data-level="3" class="maximenuck item1430 first last level3 " style="z-index : 11966;" ><a class="maximenuck " href="/en-in/nch-insights/chem-aqua-library"><span class="titreck">Chem-Aqua Library</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li data-level="2" class="maximenuck item134 parent level2 " style="z-index : 11965;" ><a class="maximenuck " href="/en-in/solutions/lubricants"><img src="/images/NCH_Lubricants_Logo_Gradient.svg" alt="Lubricants" style="display: block; margin: 0 auto;" /><span class="titreck">Lubricants</span> </a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck item172 first level3 " style="z-index : 11964;" ><a class="maximenuck " href="/en-in/solutions/lubricants/greases-oils"><span class="titreck">Greases &amp; Oils</span></a>
+		</li><li data-level="3" class="maximenuck item171 first level3 " style="z-index : 11963;" ><a class="maximenuck " href="/en-in/solutions/lubricants/fuel-additives"><span class="titreck">Fuel Additives</span></a>
+		</li><li data-level="3" class="maximenuck item173 level3 " style="z-index : 11962;" ><a class="maximenuck " href="/en-in/solutions/lubricants/metal-working-fluids"><span class="titreck">Metal Working Fluids</span></a>
+		</li><li data-level="3" class="maximenuck item174 level3 " style="z-index : 11961;" ><a class="maximenuck " href="/en-in/solutions/lubricants/release-agents"><span class="titreck">Release Agents</span></a>
+		</li><li data-level="3" class="maximenuck item562 level3 " style="z-index : 11960;" ><a class="maximenuck " href="/en-in/solutions/lubricants/speciality-lubricants"><span class="titreck">Speciality Lubricants</span></a>
+		</li><li data-level="3" class="maximenuck item529 level3 " style="z-index : 11959;" ><a class="maximenuck " href="/en-in/solutions/lubricants/cleaning-services"><span class="titreck">Cleaning &amp; Services</span></a>
+		</li><li data-level="3" class="maximenuck item577 first last level3 " style="z-index : 11958;" ><a class="maximenuck " href="/en-in/solutions/maintenance/water-based-parts-cleaning"><span class="titreck">Water Based Parts Cleaning</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li data-level="2" class="maximenuck item131 parent level2 " style="z-index : 11957;" ><a class="maximenuck " href="/en-in/solutions/nch-facilities"><img src="/images/nch-facilities-platform-logo.png" alt="NCH Facilities" style="display: block; margin: 0 auto;" /><span class="titreck">NCH Facilities</span> </a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck item502 first level3 " style="z-index : 11956;" ><a class="maximenuck " href="/en-in/solutions/nch-facilities/odor-removal"><span class="titreck">Odor Removal</span></a>
+		</li><li data-level="3" class="maximenuck item695 level3 " style="z-index : 11955;" ><a class="maximenuck " href="/en-in/solutions/nch-facilities/drain-and-wastewater-treatment"><span class="titreck">Drain and Wastewater Treatment</span></a>
+		</li><li data-level="3" class="maximenuck item696 level3 " style="z-index : 11954;" ><a class="maximenuck " href="/en-in/solutions/nch-facilities/hvac-maintenance"><span class="titreck">HVAC Maintenance</span></a>
+		</li><li data-level="3" class="maximenuck item697 last level3 " style="z-index : 11953;" ><a class="maximenuck " href="/en-in/solutions/nch-facilities/facilities-maintenance-and-safety"><span class="titreck">Facilities Maintenance and Safety</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li data-level="2" class="maximenuck item472 parent level2 " style="z-index : 11952;" ><a class="maximenuck " href="/en-in/solutions/food-safety"><img src="/images/NCH_Food Safety_Logo_Gradient.svg" alt="Food Safety" style="display: block; margin: 0 auto;" /><span class="titreck">Food Safety</span> </a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck item483 first level3 " style="z-index : 11951;" ><a class="maximenuck " href="/en-in/solutions/food-safety/disinfectants-sanitation"><span class="titreck">Disinfectants &amp; Sanitation</span></a>
+		</li><li data-level="3" class="maximenuck item485 level3 " style="z-index : 11950;" ><a class="maximenuck " href="/en-in/solutions/food-safety/hand-care"><span class="titreck">Hand Care</span></a>
+		</li><li data-level="3" class="maximenuck item486 level3 " style="z-index : 11949;" ><a class="maximenuck " href="/en-in/solutions/food-safety/insecticides"><span class="titreck">Insecticides</span></a>
+		</li><li data-level="3" class="maximenuck item487 last level3 " style="z-index : 11948;" ><a class="maximenuck " href="/en-in/solutions/food-safety/haccp"><span class="titreck">H.A.C.C.P.</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li data-level="2" class="maximenuck item473 parent last level2 " style="z-index : 11947;" ><a class="maximenuck " href="/en-in/solutions/agriculture"><img src="/images/NCH_Life_Sciences_Logo_Gradient.svg" alt="Life Sciences" style="display: block; margin: 0 auto;" /><span class="titreck">Life Sciences</span> </a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck item474 first level3 " style="z-index : 11946;" ><a class="maximenuck " href="/en-in/solutions/agriculture/swine-farms"><span class="titreck">Swine Farms</span></a>
+		</li><li data-level="3" class="maximenuck item475 first level3 " style="z-index : 11945;" ><a class="maximenuck " href="/en-in/solutions/agriculture/poultry-farms"><span class="titreck">Poultry Farms</span></a>
+		</li><li data-level="3" class="maximenuck item476 first level3 " style="z-index : 11944;" ><a class="maximenuck " href="/en-in/solutions/agriculture/plant-nurseries"><span class="titreck">Plant Nurseries</span></a>
+		</li><li data-level="3" class="maximenuck item477 last level3 " style="z-index : 11943;" ><a class="maximenuck " href="/en-in/solutions/agriculture/probiotics-101"><span class="titreck">Probiotics 101</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li data-level="1" class="maximenuck headingck item448 parent level1 " style="z-index : 11942;" ><span class="separator "><span class="titreck">Products</span></span>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="2" class="maximenuck item946 parent first level2 " style="z-index : 11941;" ><a class="maximenuck " href="/en-in/products/maintenance"><img src="/images/NCH_Maintenance_Logo_Gradient.svg" alt="Maintenance" style="display: block; margin: 0 auto;" /><span class="titreck">Maintenance</span> </a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck item938 first level3 " style="z-index : 11940;" ><a class="maximenuck " href="/en-in/products/maintenance/electrical"><span class="titreck">Electrical</span></a>
+		</li><li data-level="3" class="maximenuck item936 level3 " style="z-index : 11939;" ><a class="maximenuck " href="/en-in/products/maintenance/cleaners"><span class="titreck">Cleaners</span></a>
+		</li><li data-level="3" class="maximenuck item937 level3 " style="z-index : 11938;" ><a class="maximenuck " href="/en-in/products/maintenance/corrosion"><span class="titreck">Corrosion</span></a>
+		</li><li data-level="3" class="maximenuck item939 level3 " style="z-index : 11937;" ><a class="maximenuck " href="/en-in/products/maintenance/hvac-cooling"><span class="titreck">HVAC &amp; Cooling</span></a>
+		</li><li data-level="3" class="maximenuck item940 level3 " style="z-index : 11936;" ><a class="maximenuck " href="/en-in/products/maintenance/hygiene"><span class="titreck">Hygiene</span></a>
+		</li><li data-level="3" class="maximenuck item941 level3 " style="z-index : 11935;" ><a class="maximenuck " href="/en-in/products/maintenance/odor-control"><span class="titreck">Odor Control</span></a>
+		</li><li data-level="3" class="maximenuck item1303 level3 " style="z-index : 11934;" ><a class="maximenuck " href="/en-in/products/maintenance/parts-cleaning"><span class="titreck">Parts Cleaning</span></a>
+		</li><li data-level="3" class="maximenuck item1304 level3 " style="z-index : 11933;" ><a class="maximenuck " href="/en-in/products/maintenance/repair"><span class="titreck">Repair</span></a>
+		</li><li data-level="3" class="maximenuck item1305 level3 " style="z-index : 11932;" ><a class="maximenuck " href="/en-in/products/maintenance/sealants"><span class="titreck">Sealants</span></a>
+		</li><li data-level="3" class="maximenuck item1306 last level3 " style="z-index : 11931;" ><a class="maximenuck " href="/en-in/products/maintenance/wastewater"><span class="titreck">Wastewater</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li data-level="2" class="maximenuck item942 parent level2 " style="z-index : 11930;" ><a class="maximenuck " href="/en-in/solutions/water-treatment"><img src="/images/NCH_Water Treatment_Logo_Gradient.png" alt="Chem Aqua" style="display: block; margin: 0 auto;" /><span class="titreck">Chem Aqua</span> </a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck item928 first last level3 " style="z-index : 11929;" ><a class="maximenuck " href="/en-in/products/chem-aqua/chem-aquawatertreatment"><span class="titreck">Chem-Aquawatertreatment</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li data-level="2" class="maximenuck item944 parent level2 " style="z-index : 11928;" ><a class="maximenuck " href="/en-in/products/lubricants"><img src="/images/NCH_Lubricants_Logo_Gradient.svg" alt="Lubricants" style="display: block; margin: 0 auto;" /><span class="titreck">Lubricants</span> </a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck item932 first level3 " style="z-index : 11927;" ><a class="maximenuck " href="/en-in/products/lubricants/chain-and-cable"><span class="titreck">Chain And Cable</span></a>
+		</li><li data-level="3" class="maximenuck item935 level3 " style="z-index : 11926;" ><a class="maximenuck " href="/en-in/products/lubricants/grease"><span class="titreck">Grease</span></a>
+		</li><li data-level="3" class="maximenuck item933 level3 " style="z-index : 11925;" ><a class="maximenuck " href="/en-in/products/lubricants/oils"><span class="titreck">Oils</span></a>
+		</li><li data-level="3" class="maximenuck item934 last level3 " style="z-index : 11924;" ><a class="maximenuck " href="/en-in/products/lubricants/specialty-lubricants"><span class="titreck">Specialty Lubricants</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li data-level="2" class="maximenuck item1352 level2 " style="z-index : 11923;" ><a class="maximenuck " href="/en-in/products/facilities"><img src="/images/nch-facilities-platform-logo.png" alt="Facilities" style="display: block; margin: 0 auto;" /><span class="titreck">Facilities</span> </a>
+		</li><li data-level="2" class="maximenuck item1313 level2 " style="z-index : 11922;" ><a class="maximenuck " href="/en-in/products/food-safety"><img src="/images/NCH_Food Safety_Logo_Gradient.svg" alt="Food Safety" style="display: block; margin: 0 auto;" /><span class="titreck">Food Safety</span> </a>
+		</li><li data-level="2" class="maximenuck item943 last level2 " style="z-index : 11921;" ><a class="maximenuck " href="https://www.nchlifesciences.com"><img src="/images/NCH_Life_Sciences_Logo_Gradient.png" alt="Life Sciences" style="display: block; margin: 0 auto;" /><span class="titreck">Life Sciences</span> </a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li data-level="1" class="maximenuck headingck item141 parent level1 " style="z-index : 11920;" ><span class="separator "><span class="titreck">Applications</span></span>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="2" class="maximenuck item145 parent first level2 " style="z-index : 11919;" ><a class="maximenuck " href="/en-in/customers/commercial"><span class="titreck">Commercial</span></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck item449 first level3 " style="z-index : 11918;" ><a class="maximenuck " href="/en-in/customers/commercial/hotels-hospitality"><span class="titreck">Hotels &amp; Hospitality</span></a>
+		</li><li data-level="3" class="maximenuck item450 level3 " style="z-index : 11917;" ><a class="maximenuck " href="/en-in/customers/commercial/food-beverages"><span class="titreck">Food &amp; Beverages</span></a>
+		</li><li data-level="3" class="maximenuck item451 level3 " style="z-index : 11916;" ><a class="maximenuck " href="/en-in/customers/commercial/shopping-malls"><span class="titreck">Shopping Malls</span></a>
+		</li><li data-level="3" class="maximenuck item452 level3 " style="z-index : 11915;" ><a class="maximenuck " href="/en-in/customers/commercial/hospitals"><span class="titreck">Hospitals</span></a>
+		</li><li data-level="3" class="maximenuck item453 level3 " style="z-index : 11914;" ><a class="maximenuck " href="/en-in/customers/commercial/schools"><span class="titreck">Schools</span></a>
+		</li><li data-level="3" class="maximenuck item454 level3 " style="z-index : 11913;" ><a class="maximenuck " href="/en-in/customers/commercial/amusement-parks"><span class="titreck">Amusement Parks</span></a>
+		</li><li data-level="3" class="maximenuck item455 level3 " style="z-index : 11912;" ><a class="maximenuck " href="/en-in/customers/commercial/commercial-buildings"><span class="titreck">Commercial Buildings</span></a>
+		</li><li data-level="3" class="maximenuck item456 level3 " style="z-index : 11911;" ><a class="maximenuck " href="/en-in/customers/commercial/golf"><span class="titreck">Golf</span></a>
+		</li><li data-level="3" class="maximenuck item585 last level3 " style="z-index : 11910;" ><a class="maximenuck " href="/en-in/customers/commercial/ski-resorts"><span class="titreck">Ski Resorts</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li data-level="2" class="maximenuck item146 parent level2 " style="z-index : 11909;" ><a class="maximenuck " href="/en-in/customers/industrial"><span class="titreck">Industrial</span></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck item457 first level3 " style="z-index : 11908;" ><a class="maximenuck " href="/en-in/customers/industrial/steel-metal-works"><span class="titreck">Steel &amp; Metal Works</span></a>
+		</li><li data-level="3" class="maximenuck item458 level3 " style="z-index : 11907;" ><a class="maximenuck " href="/en-in/customers/industrial/food-beverage"><span class="titreck">Food &amp; Beverage</span></a>
+		</li><li data-level="3" class="maximenuck item459 level3 " style="z-index : 11906;" ><a class="maximenuck " href="/en-in/customers/industrial/pulp-paper"><span class="titreck">Pulp &amp; Paper</span></a>
+		</li><li data-level="3" class="maximenuck item460 level3 " style="z-index : 11905;" ><a class="maximenuck " href="/en-in/customers/industrial/automotive-manufacturing"><span class="titreck">Automotive Manufacturing</span></a>
+		</li><li data-level="3" class="maximenuck item461 level3 " style="z-index : 11904;" ><a class="maximenuck " href="/en-in/customers/industrial/pharmaceuticals"><span class="titreck">Pharmaceuticals</span></a>
+		</li><li data-level="3" class="maximenuck item462 level3 " style="z-index : 11903;" ><a class="maximenuck " href="/en-in/customers/industrial/agriculture"><span class="titreck">Life Sciences</span></a>
+		</li><li data-level="3" class="maximenuck item586 last level3 " style="z-index : 11902;" ><a class="maximenuck " href="/en-in/customers/industrial/general-manufacturing"><span class="titreck">General Manufacturing</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li data-level="2" class="maximenuck item147 parent last level2 " style="z-index : 11901;" ><a class="maximenuck " href="/en-in/customers/infrastructure"><span class="titreck">Infrastructure</span></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck item463 first level3 " style="z-index : 11900;" ><a class="maximenuck " href="/en-in/customers/infrastructure/water-treatment"><span class="titreck">Water Treatment</span></a>
+		</li><li data-level="3" class="maximenuck item464 level3 " style="z-index : 11899;" ><a class="maximenuck " href="/en-in/customers/infrastructure/waste-management"><span class="titreck">Waste Management</span></a>
+		</li><li data-level="3" class="maximenuck item465 level3 " style="z-index : 11898;" ><a class="maximenuck " href="/en-in/customers/infrastructure/mining-oil-gas"><span class="titreck">Mining, Oil &amp; Gas</span></a>
+		</li><li data-level="3" class="maximenuck item466 level3 " style="z-index : 11897;" ><a class="maximenuck " href="/en-in/customers/infrastructure/construction"><span class="titreck">Construction</span></a>
+		</li><li data-level="3" class="maximenuck item467 level3 " style="z-index : 11896;" ><a class="maximenuck " href="/en-in/customers/infrastructure/marine"><span class="titreck">Marine</span></a>
+		</li><li data-level="3" class="maximenuck item468 level3 " style="z-index : 11895;" ><a class="maximenuck " href="/en-in/customers/infrastructure/transportation"><span class="titreck">Transportation</span></a>
+		</li><li data-level="3" class="maximenuck item469 last level3 " style="z-index : 11894;" ><a class="maximenuck " href="/en-in/customers/infrastructure/power-generation"><span class="titreck">Power Generation</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li data-level="1" class="maximenuck item142 parent level1 " style="z-index : 11893;" ><a class="maximenuck " href="/en-in/about-nch"><span class="titreck">About</span></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="2" class="maximenuck item210 first level2 " style="z-index : 11892;" ><a class="maximenuck " href="/en-in/about-nch/history"><span class="titreck">History</span></a>
+		</li><li data-level="2" class="maximenuck item211 level2 " style="z-index : 11891;" ><a class="maximenuck " href="/en-in/about-nch/mission-values"><span class="titreck">Mission &amp; Values</span></a>
+		</li><li data-level="2" class="maximenuck item213 level2 " style="z-index : 11890;" ><a class="maximenuck " href="/en-in/about-nch/customer-approach"><span class="titreck">Customer Approach</span></a>
+		</li><li data-level="2" class="maximenuck item715 last level2 " style="z-index : 11889;" ><a class="maximenuck " href="/en-in/about-nch/nch-cares"><span class="titreck">NCH Cares</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li data-level="1" class="maximenuck item1398 parent level1 " style="z-index : 11888;" ><a class="maximenuck " href="/en-in/covid-19"><span class="titreck">COVID-19</span></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="2" class="maximenuck item1399 parent first level2 " style="z-index : 11887;" ><a class="maximenuck " href="/en-in/covid-19/disinfection-program"><span class="titreck">Disinfection Program</span></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck item1420 first level3 " style="z-index : 11886;" ><a class="maximenuck " href="#clean"><span class="titreck">Clean</span></a>
+		</li><li data-level="3" class="maximenuck item1421 level3 " style="z-index : 11885;" ><a class="maximenuck " href="#disinfection"><span class="titreck">Disinfection</span></a>
+		</li><li data-level="3" class="maximenuck item1422 last level3 " style="z-index : 11884;" ><a class="maximenuck " href="#sanitization"><span class="titreck">Sanitization</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li data-level="2" class="maximenuck item1400 parent level2 " style="z-index : 11883;" ><a class="maximenuck " href="/en-in/covid-19/cooling-water-system"><span class="titreck">Cooling Water System</span></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck item1416 first level3 " style="z-index : 11882;" ><a class="maximenuck " href="#wake-up"><span class="titreck">Wake Up Audit</span></a>
+		</li><li data-level="3" class="maximenuck item1417 level3 " style="z-index : 11881;" ><a class="maximenuck " href="#cleaning"><span class="titreck">Cleaning</span></a>
+		</li><li data-level="3" class="maximenuck item1418 level3 " style="z-index : 11880;" ><a class="maximenuck " href="#disinfection"><span class="titreck">Disinfection</span></a>
+		</li><li data-level="3" class="maximenuck item1419 last level3 " style="z-index : 11879;" ><a class="maximenuck " href="#corrosion"><span class="titreck">Anti Corrosion</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li data-level="2" class="maximenuck item1401 parent level2 " style="z-index : 11878;" ><a class="maximenuck " href="/en-in/covid-19/wake-up-your-building"><span class="titreck">Wake Up Your Building</span></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck item1412 first level3 " style="z-index : 11877;" ><a class="maximenuck " href="#air-quality"><span class="titreck">Air Quality</span></a>
+		</li><li data-level="3" class="maximenuck item1413 level3 " style="z-index : 11876;" ><a class="maximenuck " href="#hvac"><span class="titreck">HVAC</span></a>
+		</li><li data-level="3" class="maximenuck item1414 level3 " style="z-index : 11875;" ><a class="maximenuck " href="#drain"><span class="titreck">Drain</span></a>
+		</li><li data-level="3" class="maximenuck item1415 last level3 " style="z-index : 11874;" ><a class="maximenuck " href="#wastewater"><span class="titreck">Wastewater</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li data-level="2" class="maximenuck item1402 parent level2 " style="z-index : 11873;" ><a class="maximenuck " href="/en-in/covid-19/machinery-maintenance-program"><span class="titreck">Machinery Maintenance Program</span></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck item1408 first level3 " style="z-index : 11872;" ><a class="maximenuck " href="#repair"><span class="titreck">Repair</span></a>
+		</li><li data-level="3" class="maximenuck item1409 level3 " style="z-index : 11871;" ><a class="maximenuck " href="#clean"><span class="titreck">Clean in Place</span></a>
+		</li><li data-level="3" class="maximenuck item1410 level3 " style="z-index : 11870;" ><a class="maximenuck " href="#sanitization"><span class="titreck">Area Sanitization</span></a>
+		</li><li data-level="3" class="maximenuck item1411 last level3 " style="z-index : 11869;" ><a class="maximenuck " href="#hvac"><span class="titreck">HVAC</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li data-level="2" class="maximenuck item1403 parent last level2 " style="z-index : 11868;" ><a class="maximenuck " href="/en-in/covid-19/food-safety"><span class="titreck">Food Safety</span></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck item1404 first level3 " style="z-index : 11867;" ><a class="maximenuck " href="#hygiene"><span class="titreck">Personnel Hygiene</span></a>
+		</li><li data-level="3" class="maximenuck item1405 level3 " style="z-index : 11866;" ><a class="maximenuck " href="#cleaning"><span class="titreck">Environmental Cleaning</span></a>
+		</li><li data-level="3" class="maximenuck item1407 level3 " style="z-index : 11865;" ><a class="maximenuck " href="#disinfection"><span class="titreck">Disinfection</span></a>
+		</li><li data-level="3" class="maximenuck item1406 last level3 " style="z-index : 11864;" ><a class="maximenuck " href="#pest-management"><span class="titreck">Pest Management</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li data-level="1" class="maximenuck item640 active parent level1 " style="z-index : 11863;" ><a class="maximenuck " href="/en-in/nch-insights"><span class="titreck">News</span></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="2" class="maximenuck item1444 first first level2 " style="z-index : 11862;" ><a class="maximenuck " href="https://nchwebinar.com/" target="_blank" ><span class="titreck">Webinar</span></a>
+		</li><li data-level="2" class="maximenuck item713 level2 " style="z-index : 11861;" ><a class="maximenuck " href="/en-in/nch-insights/did-you-know"><span class="titreck">Did You Know?</span></a>
+		</li><li data-level="2" class="maximenuck item667 current active first level2 " style="z-index : 11860;" ><a class="maximenuck " href="/en-in/nch-insights/industry-news"><span class="titreck">Industry News</span></a>
+		</li><li data-level="2" class="maximenuck item668 last level2 " style="z-index : 11859;" ><a class="maximenuck " href="/en-in/nch-insights/press-releases"><span class="titreck">Press Releases</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li data-level="1" class="maximenuck item1362 parent first level1 " style="z-index : 11858;" ><a class="maximenuck " href="/en-in/careers"><span class="titreck">Careers</span></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="2" class="maximenuck item1376 first level2 " style="z-index : 11857;" ><a class="maximenuck " href="/en-in/careers/vacancies/india"><span class="titreck">Vacancies</span></a>
+		</li><li data-level="2" class="maximenuck item1373 level2 " style="z-index : 11856;" ><a class="maximenuck " href="/en-in/careers/rewards-benefits"><span class="titreck">Rewards &amp; Benefits</span></a>
+		</li><li data-level="2" class="maximenuck item1371 level2 " style="z-index : 11855;" ><a class="maximenuck " href="/en-in/careers/who-we-look-for"><span class="titreck">Who We Look For</span></a>
+		</li><li data-level="2" class="maximenuck item1372 level2 " style="z-index : 11854;" ><a class="maximenuck " href="/en-in/careers/why-choose-us"><span class="titreck">Why Choose Us</span></a>
+		</li><li data-level="2" class="maximenuck item1363 parent level2 " style="z-index : 11853;" ><a class="maximenuck " href="/en-in/careers/job-categories"><span class="titreck">Job Categories</span></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck item1366 first level3 " style="z-index : 11852;" ><a class="maximenuck " href="/en-in/careers/job-categories/marketing"><span class="titreck">Marketing</span></a>
+		</li><li data-level="3" class="maximenuck item1367 level3 " style="z-index : 11851;" ><a class="maximenuck " href="/en-in/careers/job-categories/research-development"><span class="titreck">Research &amp; Development</span></a>
+		</li><li data-level="3" class="maximenuck item1368 level3 " style="z-index : 11850;" ><a class="maximenuck " href="/en-in/careers/job-categories/supply-chain"><span class="titreck">Supply Chain</span></a>
+		</li><li data-level="3" class="maximenuck item1369 level3 " style="z-index : 11849;" ><a class="maximenuck " href="/en-in/careers/job-categories/it"><span class="titreck">IT</span></a>
+		</li><li data-level="3" class="maximenuck item1370 level3 " style="z-index : 11848;" ><a class="maximenuck " href="/en-in/careers/job-categories/hr"><span class="titreck">HR</span></a>
+		</li><li data-level="3" class="maximenuck item1364 level3 " style="z-index : 11847;" ><a class="maximenuck " href="/en-in/careers/job-categories/sales"><span class="titreck">Sales</span></a>
+		</li><li data-level="3" class="maximenuck item1365 last level3 " style="z-index : 11846;" ><a class="maximenuck " href="/en-in/careers/job-categories/sales-support"><span class="titreck">Sales Support</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li data-level="2" class="maximenuck item1374 level2 " style="z-index : 11845;" ><a class="maximenuck " href="/en-in/careers/learning-development"><span class="titreck">Learning &amp; Development</span></a>
+		</li><li data-level="2" class="maximenuck item1375 last level2 " style="z-index : 11844;" ><a class="maximenuck " href="/en-in/careers/join-us"><span class="titreck">Join Us</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li data-level="1" class="maximenuck item471 last first level1 " style="z-index : 11843;" ><a class="maximenuck " href="/en-in/contact-us"><span class="titreck">Contact</span></a></li>            </ul>
+        </div>
+        <div class="maxiroundedright"></div>
+        <div style="clear:both;"></div>
+    </div>
+    <!-- fin maximenuCK -->
+			</div>
+						
+			
+		</div>
+	
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="clear"></div>
+					<!-- Nav wrapper -->
+
+				
+		
+			<!-- banner -->
+			<div id="bannerwrap">
+				<div class="container">
+					<div class="row">
+						
+				<div id="banner" class="zen-col zen-grid-12">
+							<div class="moduletable">
+			
+						
+			
+						
+			
+			
+						<div class="jbmoduleBody">
+			<div class="breadcrumbs">
+<a href="/en-in/nch-insights" class="pathway">News</a><a href="/en-in/nch-insights/industry-news" class="pathway">Industry News</a><span class="breadcrumbs zencrumb last">The role of microorganisms in wastewater treatment</span></div>
+
+			</div>
+						
+			
+		</div>
+	
+				</div>
+			
+					</div>
+				</div>
+			</div>
+			<!-- banner -->
+
+		<div id="contentwrap" class="nobg">
+			<div class="container topborder">
+				<div class="contentrow">
+					<div class="inner">
+
+								
+						
+						
+						
+						
+			<div id="mainwrap">
+				<div class="container">
+					<div class="row">
+						<div class="inner">
+							<div id="main" class="LMR one">
+
+								
+								
+								<div id="midCol" class="zen-col zen-grid-12 zen-push3">
+
+								
+																	<div id="mainContent">
+											<div id="jbArticle">
+            
+            
+			<div class="date-share">
+				<div class="social-share">
+					<ul class="share-links">
+						<li>
+							<a href="http://www.facebook.com/sharer/sharer.php?u=http://www.nchasia.com/en-in/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment&title=The role of microorganisms in wastewater treatment" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+						</li>
+						<li>
+							<a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.nchasia.com/en-in/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+						</li>
+						<li>
+							<a href="http://twitter.com/share?url=http://www.nchasia.com/en-in/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment&text=The role of microorganisms in wastewater treatment" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+						</li>
+						<li>
+							<a href="https://plus.google.com/share?url=http://www.nchasia.com/en-in/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+						</li>
+					</ul>
+				</div>
+
+				<p class="category-date">
+					<i class="fa fa-calendar" aria-hidden="true"></i>
+					5 August 2017				</p>
+			</div>
+
+			
+										<!-- Item Title -->
+				<h1 class="contentheading insights ">
+														The role of microorganisms in wastewater treatment										</h1>
+				
+				<div class="tags top">
+					<p>
+						<i class="fa fa-tag" aria-hidden="true"></i>Article Tags
+					</p>
+
+						<ul class="tags inline">
+																	<li class="tag-4 tag-list0" itemprop="keywords">
+					<a href="/en-in/component/tags/tag/wastewater" class="label label-info">
+						Wastewater					</a>
+				</li>
+																				<li class="tag-9 tag-list1" itemprop="keywords">
+					<a href="/en-in/component/tags/tag/water-treatment" class="label label-info">
+						 water treatment					</a>
+				</li>
+						</ul>
+				</div>
+
+				<div class="mobile-share">
+					<div class="social-share">
+						<span>Share</span>
+						<ul class="share-links">
+							<li>
+								<a href="http://www.facebook.com/sharer/sharer.php?u=http://www.nchasia.com/en-in/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment&[title]=The role of microorganisms in wastewater treatment" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+							</li>
+
+							<li>
+								<a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.nchasia.com/en-in/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+							</li>
+
+							<li>
+								<a href="http://twitter.com/share?url=http://www.nchasia.com/en-in/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment&text=The role of microorganisms in wastewater treatment" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+							</li>
+
+							<li>
+								<a href="https://plus.google.com/share?url=http://www.nchasia.com/en-in/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+							</li>
+						</ul>
+					</div>
+				</div>
+
+
+
+
+				
+								<div class="jbIntroText">
+
+					<div class="custom-fields">
+
+						<div class="image">
+
+
+						<img src="/images/insights/The-role-of-microorganisms-in-wastewater-treatment.jpg">					</div>
+				</div>
+
+
+					<div class="article-content-insights">
+						<div class="tag-line">
+							<p>&nbsp;</p>
+<p>Biological wastewater treatments employ microorganisms to remove organic matter from water. Organic matter or pollutants stem from number of sources, such as drainage systems or acid rain.</p>
+<p>&nbsp;</p>						</div>
+
+						<p><strong style="font-size: 1.5em;">The use of microorganisms in wastewater treatment results in the following:</strong></p>
+<ul>
+<li>FOG (Fats, Oil and Grease) removal</li>
+<li>BOD (Biochemical Oxygen Demand) reduction</li>
+<li>COD (Chemical Oxygen Demand) reduction</li>
+<li>TSS (Total Suspended Solids) reduction</li>
+<li>Odor elimination</li>
+</ul>
+<h2><strong>How do bacteria remove pollutants from wastewater?</strong></h2>
+<p>There are two primary methods that microorganisms employ when reducing the level of pollutants in wastewater. These are:</p>
+<ul>
+<li><strong>Aerobic</strong> – Aerobic digestion is a primary wastewater treatment process, used for the purification of wastewater into a more useful, environmentally friendly effluent. The process involves trillions of bacteria which rely on oxygen to survive and multiply. Microbes digest organic waste by stealing its oxygen, altering the chemical makeup of the material into a less environmentally damaging matter.</li>
+</ul>
+<ul>
+<li><strong>Anaerobic</strong> – Anaerobic digestion is the biological fermentation of organic matter. Organic materials are converted into biogas, which helps to reduce pollutants and contaminants from the water. Anaerobic treatments are used to alter the chemical composition of the organic material found in wastewater to make it more environmentally friendly.</li>
+</ul>
+<h2><strong>NCH Asia is an expert in biological <a href="/en-in/solutions/maintenance/drains" title="Drain maintenance">drain maintenance</a> and <a href="/en-in/solutions/maintenance/free-flow" title="FreeFlow">water treatment solutions</a></strong></h2>
+<p>Our innovative <a href="/en-in/solutions/maintenance/bioamp-systems" title="BioAmp systems">BioAmp wastewater treatment systems</a> are microbial fermentation units used by industries worldwide to solve wastewater concerns and avoid municipal fines. We supply BioAmp systems tailored to suit any organization, no matter what size.</p>
+<p><a href="https://youtu.be/3gsiBMRnLV0" title="NCH Wastewater - BioAmp Wastewater 2015">Watch this short video</a> to learn more about our BioAmp systems or get in touch for more information.&nbsp;</p>
+<p>&nbsp;</p> 
+						<div class="tags bottom">
+							<p>
+								<i class="fa fa-tag" aria-hidden="true"></i>Article Tags
+							</p>
+
+								<ul class="tags inline">
+																	<li class="tag-4 tag-list0" itemprop="keywords">
+					<a href="/en-in/component/tags/tag/wastewater" class="label label-info">
+						Wastewater					</a>
+				</li>
+																				<li class="tag-9 tag-list1" itemprop="keywords">
+					<a href="/en-in/component/tags/tag/water-treatment" class="label label-info">
+						 water treatment					</a>
+				</li>
+						</ul>
+						</div>
+					</div>
+
+
+						
+																		
+					
+
+				<!-- Introtext -->
+
+
+								
+								
+
+									
+														</div>
+
+
+								<div class="mobile-share">
+									<div class="social-share">
+										<span>Share</span>
+										<ul class="share-links">
+											<li>
+												<a href="http://www.facebook.com/sharer/sharer.php?s=100&p[url]=http://www.nchasia.com/en-in/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment[summary]=The role of microorganisms in wastewater treatment" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+											</li>
+
+											<li>
+												<a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.nchasia.com/en-in/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+											</li>
+
+											<li>
+												<a href="http://twitter.com/share?url=http://www.nchasia.com/en-in/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment&text=The role of microorganisms in wastewater treatment" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+											</li>
+
+											<li>
+												<a href="https://plus.google.com/share?url=http://www.nchasia.com/en-in/nch-insights/industry-news/the-role-of-microorganisms-in-wastewater-treatment" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+											</li>
+										</ul>
+									</div>
+								</div>
+
+								<div class="below-article-modules">
+										
+
+<div class="custom"  >
+	<div class="media-contacts">
+<h3>Media Contacts</h3>
+<p><a title="Find Our More" href="/en-in/nch-media/media-contacts">Find Out More</a></p>
+</div></div>
+
+										<!-- <div class="related">
+											<div class="solutions">
+												<h3>Related Solutions</h3>
+												<ul>
+<li><a href="/en-in/solutions/maintenance" title="Maintenance">Maintenance</a></li>
+<li><a href="/en-in/solutions/water-treatment" title="Water Treatment">Water Treatment</a></li>
+<li><a href="/en-in/solutions/nch-facilities?view=article&amp;id=28" title="Wastewater">Wastewater</a></li>
+<li><a href="/en-in/solutions/agriculture" title="Life Sciences">Life Sciences</a></li>
+</ul>											</div>
+
+											<div class="products">
+												<h3>Related Products</h3>
+												<ul>
+<li><a href="/en-in/products/maintenance/maintenance" title="Cleaning &amp; Maintenance Services">Cleaning &amp; Maintenance Services</a></li>
+<li><a href="/en-in/solutions/water-treatment" title="Cooling Treatment">Cooling Treatment</a></li>
+<li><a href="/en-in/component/content/article/wastewater-products?Itemid=601" title="Drains">Drains</a></li>
+<li><a href="/en-in/solutions/agriculture" title="Legionella">Legionella</a></li>
+</ul>											</div>
+										</div> -->
+								</div>
+											</div>	
+<div class="modal fade" id="ajax-modal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <!-- Ajax content will be loaded here -->
+        </div>
+    </div>
+</div>
+<div><a title="Faboba : Cr&eacute;ation de composantJoomla" style="font-size: 8px;; visibility: visible;display:inline;" href="http://www.faboba.com" target="_blank">FaLang translation system by Faboba</a></div>
+									</div>
+
+																			<div id="belowcontent">
+													<div class="moduletable">
+			
+						
+			
+						
+			
+			
+						<div class="jbmoduleBody">
+			<div class="tagssimilar">
+	<div class="link-title">
+
+		
+
+<div class="custom"  >
+	<h3><span>You Might Also Like</span></h3>
+<a href="/en-in/nch-insights" title="View All" class="View All">View All</a></div>
+	</div>
+
+	<div class="blog insights">
+		<div class="insights-tags owl-carousel owl-theme">
+						
+
+		<div class="item">
+		<div class="items-row">
+		<div class="insights-image">
+			<img src="/images/insights/Primary-treatment-of-wastewater.jpg" alt="Wastewater treatment plant" />
+		</div>
+
+		<div class="insights-info">
+			<div class="title-date">
+
+				<p class="category-title">
+					Insights				</p>
+
+
+				<p class="category-date">
+					<i class="fa fa-calendar" aria-hidden="true"></i>
+					20 July 2017
+
+
+				</p>
+
+				<h2 class="category-title">
+				<a class="article-link" href="/en-in/nch-insights/industry-news/primary-treatment-of-wastewater">
+				Primary treatment of wastewater				</a>
+				</h2>
+			</div>
+
+			<div class="tags-share">
+				<div class="tags">
+					<p>
+						<i class="fa fa-tag" aria-hidden="true"></i>Tags:
+					</p>
+
+					
+					<ul class="tags inline">
+													<li>
+								<a href="/en-in/component/tags/tag/wastewater">
+									Wastewater								</a>
+							</li>
+					    							<li>
+								<a href="/en-in/component/tags/tag/water-treatment">
+									 water treatment								</a>
+							</li>
+					    					</ul>
+				</div>
+
+				<div class="social-share">
+					<span>Share</span>
+					<ul class="share-links">
+						<li>
+							<a href="http://www.facebook.com/sharer/sharer.php?u=http://www.nchasia.com/en-in/nch-insights/industry-news/primary-treatment-of-wastewater&[title]=Primary treatment of wastewater" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+						</li>
+
+						<li>
+							<a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.nchasia.com/en-in/nch-insights/industry-news/primary-treatment-of-wastewater&text=			Primary treatment of wastewater" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+						</li>
+
+						<li>
+							<a href="http://twitter.com/share?url=http://www.nchasia.com/en-in/nch-insights/industry-news/primary-treatment-of-wastewater&text=			Primary treatment of wastewater" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+						</li>
+
+						<li>
+							<a href="https://plus.google.com/share?url=/en-in/nch-insights/industry-news/primary-treatment-of-wastewater&text=			Primary treatment of wastewater" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+
+
+
+
+
+
+		</div>
+	</div>
+						
+
+		<div class="item">
+		<div class="items-row">
+		<div class="insights-image">
+			<img src="/images/insights/Wastewater-treatment-methods.jpg" alt="water system" />
+		</div>
+
+		<div class="insights-info">
+			<div class="title-date">
+
+				<p class="category-title">
+					Insights				</p>
+
+
+				<p class="category-date">
+					<i class="fa fa-calendar" aria-hidden="true"></i>
+					1 August 2017
+
+
+				</p>
+
+				<h2 class="category-title">
+				<a class="article-link" href="/en-in/nch-insights/industry-news/wastewater-treatment-methods">
+				Wastewater treatment methods				</a>
+				</h2>
+			</div>
+
+			<div class="tags-share">
+				<div class="tags">
+					<p>
+						<i class="fa fa-tag" aria-hidden="true"></i>Tags:
+					</p>
+
+					
+					<ul class="tags inline">
+													<li>
+								<a href="/en-in/component/tags/tag/wastewater">
+									Wastewater								</a>
+							</li>
+					    							<li>
+								<a href="/en-in/component/tags/tag/water-treatment">
+									 water treatment								</a>
+							</li>
+					    					</ul>
+				</div>
+
+				<div class="social-share">
+					<span>Share</span>
+					<ul class="share-links">
+						<li>
+							<a href="http://www.facebook.com/sharer/sharer.php?u=http://www.nchasia.com/en-in/nch-insights/industry-news/wastewater-treatment-methods&[title]=Wastewater treatment methods" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+						</li>
+
+						<li>
+							<a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.nchasia.com/en-in/nch-insights/industry-news/wastewater-treatment-methods&text=			Wastewater treatment methods" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+						</li>
+
+						<li>
+							<a href="http://twitter.com/share?url=http://www.nchasia.com/en-in/nch-insights/industry-news/wastewater-treatment-methods&text=			Wastewater treatment methods" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+						</li>
+
+						<li>
+							<a href="https://plus.google.com/share?url=/en-in/nch-insights/industry-news/wastewater-treatment-methods&text=			Wastewater treatment methods" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+
+
+
+
+
+
+		</div>
+	</div>
+						
+
+		<div class="item">
+		<div class="items-row">
+		<div class="insights-image">
+			<img src="/images/insights/Water-and-wastewater-treatment-chemicals.jpg" alt="wastewater treatment chemicals" />
+		</div>
+
+		<div class="insights-info">
+			<div class="title-date">
+
+				<p class="category-title">
+					Insights				</p>
+
+
+				<p class="category-date">
+					<i class="fa fa-calendar" aria-hidden="true"></i>
+					1 August 2017
+
+
+				</p>
+
+				<h2 class="category-title">
+				<a class="article-link" href="/en-in/nch-insights/industry-news/water-and-wastewater-treatment-chemicals">
+				Water and wastewater treatment chemicals				</a>
+				</h2>
+			</div>
+
+			<div class="tags-share">
+				<div class="tags">
+					<p>
+						<i class="fa fa-tag" aria-hidden="true"></i>Tags:
+					</p>
+
+					
+					<ul class="tags inline">
+													<li>
+								<a href="/en-in/component/tags/tag/wastewater">
+									Wastewater								</a>
+							</li>
+					    							<li>
+								<a href="/en-in/component/tags/tag/water-treatment">
+									 water treatment								</a>
+							</li>
+					    					</ul>
+				</div>
+
+				<div class="social-share">
+					<span>Share</span>
+					<ul class="share-links">
+						<li>
+							<a href="http://www.facebook.com/sharer/sharer.php?u=http://www.nchasia.com/en-in/nch-insights/industry-news/water-and-wastewater-treatment-chemicals&[title]=Water and wastewater treatment chemicals" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+						</li>
+
+						<li>
+							<a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.nchasia.com/en-in/nch-insights/industry-news/water-and-wastewater-treatment-chemicals&text=			Water and wastewater treatment chemicals" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+						</li>
+
+						<li>
+							<a href="http://twitter.com/share?url=http://www.nchasia.com/en-in/nch-insights/industry-news/water-and-wastewater-treatment-chemicals&text=			Water and wastewater treatment chemicals" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+						</li>
+
+						<li>
+							<a href="https://plus.google.com/share?url=/en-in/nch-insights/industry-news/water-and-wastewater-treatment-chemicals&text=			Water and wastewater treatment chemicals" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+
+
+
+
+
+
+		</div>
+	</div>
+						
+
+		<div class="item">
+		<div class="items-row">
+		<div class="insights-image">
+			<img src="/images/insights/What-is-a-water-treatment-plant.jpg" alt="water treatment plant" />
+		</div>
+
+		<div class="insights-info">
+			<div class="title-date">
+
+				<p class="category-title">
+					Insights				</p>
+
+
+				<p class="category-date">
+					<i class="fa fa-calendar" aria-hidden="true"></i>
+					3 August 2017
+
+
+				</p>
+
+				<h2 class="category-title">
+				<a class="article-link" href="/en-in/nch-insights/industry-news/what-is-a-water-treatment-plant">
+				What is a water treatment plant?				</a>
+				</h2>
+			</div>
+
+			<div class="tags-share">
+				<div class="tags">
+					<p>
+						<i class="fa fa-tag" aria-hidden="true"></i>Tags:
+					</p>
+
+					
+					<ul class="tags inline">
+													<li>
+								<a href="/en-in/component/tags/tag/wastewater">
+									Wastewater								</a>
+							</li>
+					    							<li>
+								<a href="/en-in/component/tags/tag/water-treatment">
+									 water treatment								</a>
+							</li>
+					    					</ul>
+				</div>
+
+				<div class="social-share">
+					<span>Share</span>
+					<ul class="share-links">
+						<li>
+							<a href="http://www.facebook.com/sharer/sharer.php?u=http://www.nchasia.com/en-in/nch-insights/industry-news/what-is-a-water-treatment-plant&[title]=What is a water treatment plant?" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+						</li>
+
+						<li>
+							<a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.nchasia.com/en-in/nch-insights/industry-news/what-is-a-water-treatment-plant&text=			What is a water treatment plant?" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+						</li>
+
+						<li>
+							<a href="http://twitter.com/share?url=http://www.nchasia.com/en-in/nch-insights/industry-news/what-is-a-water-treatment-plant&text=			What is a water treatment plant?" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+						</li>
+
+						<li>
+							<a href="https://plus.google.com/share?url=/en-in/nch-insights/industry-news/what-is-a-water-treatment-plant&text=			What is a water treatment plant?" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+
+
+
+
+
+
+		</div>
+	</div>
+						
+
+		<div class="item">
+		<div class="items-row">
+		<div class="insights-image">
+			<img src="/images/insights/Industrial-wastewater-treatment-process.jpg" alt="Industrial wastewater treatment plant" />
+		</div>
+
+		<div class="insights-info">
+			<div class="title-date">
+
+				<p class="category-title">
+					Insights				</p>
+
+
+				<p class="category-date">
+					<i class="fa fa-calendar" aria-hidden="true"></i>
+					11 August 2017
+
+
+				</p>
+
+				<h2 class="category-title">
+				<a class="article-link" href="/en-in/nch-insights/industry-news/industrial-wastewater-treatment-process">
+				Industrial wastewater treatment process				</a>
+				</h2>
+			</div>
+
+			<div class="tags-share">
+				<div class="tags">
+					<p>
+						<i class="fa fa-tag" aria-hidden="true"></i>Tags:
+					</p>
+
+					
+					<ul class="tags inline">
+													<li>
+								<a href="/en-in/component/tags/tag/wastewater">
+									Wastewater								</a>
+							</li>
+					    							<li>
+								<a href="/en-in/component/tags/tag/water-treatment">
+									 water treatment								</a>
+							</li>
+					    					</ul>
+				</div>
+
+				<div class="social-share">
+					<span>Share</span>
+					<ul class="share-links">
+						<li>
+							<a href="http://www.facebook.com/sharer/sharer.php?u=http://www.nchasia.com/en-in/nch-insights/industry-news/industrial-wastewater-treatment-process&[title]=Industrial wastewater treatment process" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+						</li>
+
+						<li>
+							<a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.nchasia.com/en-in/nch-insights/industry-news/industrial-wastewater-treatment-process&text=			Industrial wastewater treatment process" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+						</li>
+
+						<li>
+							<a href="http://twitter.com/share?url=http://www.nchasia.com/en-in/nch-insights/industry-news/industrial-wastewater-treatment-process&text=			Industrial wastewater treatment process" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+						</li>
+
+						<li>
+							<a href="https://plus.google.com/share?url=/en-in/nch-insights/industry-news/industrial-wastewater-treatment-process&text=			Industrial wastewater treatment process" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+
+
+
+
+
+
+		</div>
+	</div>
+	</div>
+</div>
+</div>
+			</div>
+						
+			
+		</div>
+	
+										</div>
+									
+								</div>
+
+
+								
+
+								
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		
+						
+            
+            
+
+
+				<!-- Closes content Row -->
+						</div>
+					</div>
+				</div>
+			</div>
+
+		
+			<!-- bottom -->
+			<div id="bottomwrap">
+				<div class="container">
+					<div class="row">
+						
+				<div id="bottom2" class="zen-col zen-grid-12">
+							<div class="moduletable menu-solutions">
+			
+						<div class="moduleTitle">
+				<h3><span>Solutions</span></h3>
+			</div>
+						
+			
+						
+			
+			
+						<div class="jbmoduleBody">
+			
+
+<div class="custom"  >
+	<ul>
+<li class="maintenance"><a href="/en-in/solutions/maintenance">Maintenance</a></li>
+<li class="chemaqua"><a href="/en-in/solutions/water-treatment">Chem-Aqua</a></li>
+<li class="lubricants"><a href="/en-in/solutions/lubricants">Lubricants</a></li>
+<li class="facilities"><a href="/en-in/solutions/nch-facilities">Facilities</a></li>
+<li class="foodsafety"><a href="/en-in/solutions/food-safety">Food Safety</a></li>
+<li class="lifesciences"><a href="/en-in/solutions/agriculture">Life Sciences</a></li>
+</ul></div>
+			</div>
+						
+			
+		</div>
+	
+				</div>
+			
+					</div>
+				</div>
+			</div>
+			<!-- bottom -->
+			</div>
+
+				<div id="zensocial">
+					<div class="moduletable grid-footer-layout">
+			
+						
+			
+						
+			
+			
+						<div class="jbmoduleBody">
+			
+
+<div class="custom"  >
+	<div class="grid-footer-layout">
+<div class="container">
+<div class="grid-footer-top">
+<div class="grid-footer-top-phone"><span><i class="fa fa-phone"></i>Phone: <strong>+91 44 2625 0541 - 43</strong></span></div>
+<ul class="grid-footer-top-menu">
+<li><a href="/contact-us">Contact Us</a></li>
+<li><a href="https://nchwebinar.com/" target="_blank" rel="noopener noreferrer">NCH Webinar</a></li>
+<li><a href="/request-a-demo?product=SPILLSHARK%20PETRO">Request Product Demo</a></li>
+<li><a href="/request-techsheet-sds">Request Techsheet / SDS </a></li>
+</ul>
+<ul class="grid-footer-top-social clearfix">
+<li><a href="https://www.youtube.com/channel/UCU7sNTGytiWz4GCLjJdVDnw" title="youtube" target="_blank" class="googleplus" rel="noopener noreferrer">YouTube</a></li>
+<li><a href="https://twitter.com/nch_asia" title="twitter" target="_blank" class="twitter" rel="noopener noreferrer">Twitter</a></li>
+<li><a href="https://www.linkedin.com/company/6401752" title="linkedin" target="_blank" class="linkedin" rel="noopener noreferrer">LinkedIn</a></li>
+<li><a href="https://www.facebook.com/NCHcorpIndia" title="facebook" target="_blank" class="facebook" rel="noopener noreferrer">Facebook</a></li>
+
+</ul>
+</div>
+<div class="footer-grid-menu">
+<ul class="footer-grid-ul footer-grid-colour-blocks">
+<li>Solutions</li>
+<li class="maintenance"><a href="/solutions/maintenance">Maintenance</a></li>
+<li class="chemaqua"><a href="/solutions/water-treatment">Chem-Aqua</a></li>
+<li class="lubricants"><a href="/solutions/lubricants">Lubricants</a></li>
+<li class="facilities"><a href="/solutions/nch-facilities">Facilities</a></li>
+<li class="foodsafety"><a href="/solutions/food-safety">Food Safety</a></li>
+<li class="lifesciences"><a href="/solutions/agriculture">Life Sciences</a></li>
+</ul>
+<ul class="footer-grid-ul">
+<li>Applications</li>
+<li><a href="/customers/commercial">Commercial</a></li>
+<li><a href="/customers/industrial">Industrial</a></li>
+<li><a href="/customers/infrastructure">Infrastructure</a></li>
+</ul>
+<ul class="footer-grid-ul">
+<li>Covid-19</li>
+<li><a href="/covid-19/disinfection-program">Disinfection Program</a></li>
+<li><a href="/covid-19/cooling-water-system">Cooling Water System</a></li>
+<li><a href="/covid-19/wake-up-your-building">Wake Up Your Building</a></li>
+<li><a href="/covid-19/machinery-maintenance-program">Machinery Maintenance Program</a></li>
+<li><a href="/covid-19/food-safety">food Safety</a></li>
+</ul>
+<ul class="footer-grid-ul">
+<li>News</li>
+<li><a href="/nch-insights/did-you-know">Did You Know</a></li>
+<li><a href="/nch-insights/industry-news">Industry News</a></li>
+<li><a href="/nch-insights/press-releases">Press Release</a></li>
+</ul>
+<ul class="footer-grid-ul">
+<li>About NCH</li>
+<li><a href="/about-nch/history">History</a></li>
+<li><a href="/about-nch/mission-values">Mission &amp; Values</a></li>
+<li><a href="/about-nch/customer-approach">Customer Approach</a></li>
+<li><a href="/about-nch/nch-cares">NCH Cares</a></li>
+</ul>
+<ul class="footer-grid-ul">
+<li>Career Opportunities</li>
+<li><a href="/careers/vacancies">Vacancies</a></li>
+<li><a href="/careers/job-categories">Job Categories</a></li>
+<li><a href="/careers/join-us">Join Us</a></li>
+</ul>
+</div>
+</div>
+</div></div>
+			</div>
+						
+			
+		</div>
+			<div class="moduletable grid-footer-layout">
+			
+						
+			
+						
+			
+			
+						<div class="jbmoduleBody">
+			
+
+<div class="custom"  >
+	<div class="grid-bottom-footer">
+<div class="container">
+<div class="logo-cp"><img class="nch-logo" src="/images/mobile-logo.svg" title="nch" alt="nch" width="36px" />
+<p>© Copyright 2020 NCH Asia. All rights reserved.<br /> Cleaning Water. Conserving Energy. Maintaining Equipment.</p>
+</div>
+<ul class="grid-footer-bottom-menu">
+<li><a href="/privacy-and-cookies">Privacy &amp; Cookies</a></li>
+<li><a href="https://www.nch.com/Privacy-Policy" target="_blank" rel="noopener noreferrer">NCH Privacy Policy</a></li>
+<li><a href="/terms-and-conditions">Terms &amp; Conditions</a></li>
+<li><a href="/site-map">Site Map</a></li>
+<li>Web design by <strong>Extramile</strong></li>
+</ul>
+</div>
+</div></div>
+			</div>
+						
+			
+		</div>
+	
+		</div>
+		
+		<!-- Lazy load -->
+		
+		 <!-- Back To Top -->
+		
+		<!-- Sticky Nav -->
+					<script type="text/javascript">
+				// Sticky Nav
+				jQuery(window).scroll(function(e){
+					el = jQuery("#navwrap"); // element you want to scroll
+					var navHeight = jQuery(el).height();
+
+					jQueryscrolling = 0; // Position you want element to assume during scroll
+					jQuerybounds = 160 // boundary of when to change element to fixed and scroll
+
+					if (jQuery(this).scrollTop() > jQuerybounds && el.css("position") != "fixed") {
+						jQuery(el).css({"position": "fixed", "top": jQueryscrolling, "display": "none"}).addClass("sticky").fadeIn("slow");
+						jQuery("body").addClass("sticky");
+
+						jQuery("body").prepend("<div id=\"stickyreplace\"></div>");
+						jQuery("#stickyreplace").height(navHeight);
+					}
+					if (jQuery(this).scrollTop() < jQuerybounds && el.css("position") != "absolute") {
+						jQuery(el).css({"position": "relative", "top": "0px"}).removeClass("sticky");
+						jQuery("body").removeClass("sticky");
+						jQuery("#stickyreplace").remove();
+					}
+				});
+			</script>
+			
+				
+		<!-- Fonts -->
+		
+     <!-- Facebook Pixel Code -->
+    <!-- <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window,document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+     fbq('init', '1634849170147825');
+    fbq('track', 'PageView');
+    </script>
+    <noscript>
+     <img height="1" width="1"
+    src="https://www.facebook.com/tr?id=1634849170147825&ev=PageView
+    &noscript=1"/>
+    </noscript> -->
+    <!-- End Facebook Pixel Code -->
+
+
+
+    
+    <!-- <script src="/templates/corporate/js/modernizr.min.js" type="text/javascript"></script> -->
+
+    <!--[if IE 8]>
+      <script src="/templates/corporate/js/ie8.js">
+    <![endif]-->
+      <!-- <script type="text/javascript" src="http://www.extramileanalytics.com/stats/pt.js"></script>
+      <script type="text/javascript">
+       var ptAccount = "E1FB9593-48C6-411F-A1F5-E49DE4A7317B";
+       try { ptInit(ptAccount); } catch (err) { }
+      </script>
+      <noscript>
+       <img width="1" height="1" src="//www.extramileanalytics.com/stats/stat-nojs.aspx?ac=E1FB9593-48C6-411F-A1F5-E49DE4A7317B" alt="" />
+      </noscript> -->
+      <!-- <script>
+      var _pt = ["E1FB9593-48C6-411F-A1F5-E49DE4A7317B"];
+      (function(d,t){
+          var a=d.createElement(t),s=d.getElementsByTagName(t)[0];a.src='https://a1webstrategy.com/track.js';s.parentNode.insertBefore(a,s);
+      }(document,'script'));
+      </script> -->
+
+      <script src="https://use.fontawesome.com/4d00cb0560.js"></script>
+
+
+            <script>
+      jQuery('.lang-active').insertAfter('.countryselect').wrap('<ul class="active-lang">');
+  // jQuery('.countryselect').insertAfter('.lang-active');
+
+  jQuery('.countryselect').click( function() {
+    jQuery('.lang-inline').slideToggle();
+    setTimeout(function() { jQuery(".lang-inline").fadeOut("slow"); }, 7000);
+  });
+
+  jQuery('#footer-country-select').click( function() {
+      jQuery('html, body').animate({scrollTop:0}, 'slow');
+      //jQuery('.lang-inline').slideToggle();
+      jQuery('.lang-inline').fadeIn("slow");
+      setTimeout(function() { jQuery(".lang-inline").fadeOut("slow"); }, 7000);
+        return false;
+  });</script>
+
+        <script>
+            var cid = 7026;
+            (function() {
+                window.extramilecommunications = "extramilecommunications";
+                window.extramilecommunications = window.extramilecommunications || function(){
+                    (window.extramilecommunications.q = window.ga.q || []).push(arguments);
+                };
+                window.extramilecommunications.l = 1 * new Date();
+                var a = document.createElement('script');
+                var m = document.getElementsByTagName('script')[0];
+                a.async = 1;
+                a.src = "https://api1.websuccess-data.com/wltracker.js";
+                m.parentNode.insertBefore(a,m)
+            })()
+        </script>
+    </body>
+</html>

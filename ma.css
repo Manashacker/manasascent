@@ -1,0 +1,10 @@
+body{
+    background-image: url(1234.jfif);
+    color: black;
+    background-repeat: no-repeat;
+     background-size: cover;
+    background-attachment: fixed;
+}
+.red{
+    width: 60vw;
+}
